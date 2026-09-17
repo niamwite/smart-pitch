@@ -1,0 +1,35 @@
+{
+  "advertiser": "ecsempreendimentos",
+  "pageId": "651022421417957",
+  "collectedAt": "2026-09-16T12:46:25.382688",
+  "count": 1,
+  "ads": [
+    {
+      "advertiser": "ecsempreendimentos",
+      "pageId": "651022421417957",
+      "libraryId": "2139955860285771",
+      "isActive": true,
+      "startDate": "2026-08-20",
+      "endDate": "2026-09-16",
+      "platforms": [
+        "INSTAGRAM"
+      ],
+      "title": null,
+      "body": "🏢 Sem consulta de crédito e localizado em ótimas regiões da zona leste, os nossos apartamentos possuem o melhor preço da região e diversas plantas para escolher. \n\n🚇 Nossas obras são localizadas próximas dos maiores pontos comerciais da região, além de próximos aos metrôs do mesmo! Já imaginou morar pouquíssimos metros da estação Guilhermina ou Patriarca? 🤔🙌\n\n👆 Se interessou? Entre em contato conosco!\n\nWhatsapp: 94011-1640 (Anderson Camargo)\n\n#ecs #patriarca #zonaleste #apartamento #apto",
+      "caption": "instagram.com",
+      "linkUrl": "https://instagram.com/ecsempreendimentos",
+      "ctaText": "Acessar o perfil do Instagram",
+      "displayFormat": "IMAGE",
+      "cardsCount": 0,
+      "media": [
+        {
+          "file": "2139955860285771_img0.jpg",
+          "bytes": 103862,
+          "status": "skip",
+          "type": "image",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/782544600_1768893764455041_3626250236173758598_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeH1PFD6Pk6H2W8t0sngMVqnbFXAHuI3EmJsVcAe4jcSYjs-4senVTl8bz-bXsoFoQUSv2INwQd1de95YOcd20TG&_nc_ohc=-EZ83s0Js3UQ7kNvwEpbW_U&_nc_oc=AdrFnE23_DFM-Ar1e6ACGeV3xmby2KeAQMF11c4dHw2qGDHVKL-9eVtajoZQbakJr28&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=J47B2QEzok5PYF2h0M9uhw&_nc_ss=7b2a8&oh=00_AQJ7hGkChFZEfJCEKpLe0lXDsRCz6GtWfa-M70ypR48Gow&oe=6AB09683"
+        }
+      ]
+    }
+  ]
+}

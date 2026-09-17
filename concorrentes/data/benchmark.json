@@ -1,0 +1,574 @@
+[
+  {
+    "advertiser": "Canopus Construções",
+    "pageId": "1866016760295816",
+    "ads": 167,
+    "active": 160,
+    "period": "2025-04-30..2026-09-11",
+    "regions": [
+      "belém",
+      "metro"
+    ],
+    "doors": [],
+    "prices": [
+      "r$ 1.000",
+      "r$ 1.197",
+      "r$ 1.200",
+      "r$ 1.329",
+      "r$ 1.800",
+      "r$ 1.800."
+    ],
+    "formats": {
+      "VIDEO": 119,
+      "DCO": 48
+    },
+    "ctas": {
+      "Saiba mais": 95,
+      "Ver detalhes": 65,
+      "Enviar mensagem pelo WhatsApp": 6
+    },
+    "linkDomains": {
+      "fb.me": 161,
+      "api.whatsapp.com": 6
+    },
+    "videos": 349,
+    "images": 125
+  },
+  {
+    "advertiser": "Construtora criativa conceito",
+    "pageId": "104129642790133",
+    "ads": 3,
+    "active": 3,
+    "period": "2026-09-08..2026-09-14",
+    "regions": [
+      "metrô",
+      "patriarca",
+      "zona leste"
+    ],
+    "doors": [
+      "2 dorm"
+    ],
+    "prices": [
+      "r$ 799"
+    ],
+    "formats": {
+      "VIDEO": 1,
+      "IMAGE": 1,
+      "CAROUSEL": 1
+    },
+    "ctas": {
+      "Enviar mensagem pelo WhatsApp": 3
+    },
+    "linkDomains": {
+      "api.whatsapp.com": 3
+    },
+    "videos": 3,
+    "images": 9
+  },
+  {
+    "advertiser": "Construtora Metrocasa",
+    "pageId": "2019271768315774",
+    "ads": 200,
+    "active": 198,
+    "period": "2023-10-02..2026-09-15",
+    "regions": [
+      "aricanduva",
+      "carrão",
+      "itaquera",
+      "metro",
+      "metrô",
+      "patriarca",
+      "sapopemba",
+      "são paulo",
+      "zona leste"
+    ],
+    "doors": [
+      "1 dorm",
+      "2 dorm",
+      "studio"
+    ],
+    "prices": [
+      "r$ 1.000",
+      "r$ 180",
+      "r$ 189",
+      "r$ 190",
+      "r$ 210",
+      "r$ 220"
+    ],
+    "formats": {
+      "DCO": 138,
+      "VIDEO": 38,
+      "IMAGE": 24
+    },
+    "ctas": {
+      "Cadastre-se": 90,
+      "Saiba mais": 80,
+      "Ver detalhes": 13
+    },
+    "linkDomains": {
+      "fb.me": 177,
+      "api.whatsapp.com": 12,
+      "instagram.com": 3
+    },
+    "videos": 114,
+    "images": 252
+  },
+  {
+    "advertiser": "Construtora Tenda",
+    "pageId": "145525588926195",
+    "ads": 148,
+    "active": 144,
+    "period": "2024-04-10..2026-09-15",
+    "regions": [
+      "são paulo",
+      "zona leste"
+    ],
+    "doors": [
+      "2 dorm"
+    ],
+    "prices": [],
+    "formats": {
+      "CAROUSEL": 2,
+      "DCO": 139,
+      "VIDEO": 7
+    },
+    "ctas": {
+      "Cadastre-se": 93,
+      "Saiba mais": 40,
+      "Ver detalhes": 9
+    },
+    "linkDomains": {
+      "fb.me": 94,
+      "tenda.com": 51,
+      "www.tenda.com": 1
+    },
+    "videos": 20,
+    "images": 428
+  },
+  {
+    "advertiser": "Direcional Engenharia",
+    "pageId": "159185379226",
+    "ads": 930,
+    "active": 930,
+    "period": "2025-11-14..2026-09-16",
+    "regions": [
+      "itaim paulista",
+      "metrô",
+      "são paulo",
+      "zona leste"
+    ],
+    "doors": [
+      "2 dorm",
+      "3 dorm",
+      "studio"
+    ],
+    "prices": [
+      "r$ 200",
+      "r$ 220",
+      "r$ 249",
+      "r$ 265",
+      "r$ 299",
+      "r$ 3.600"
+    ],
+    "formats": {
+      "DCO": 658,
+      "VIDEO": 267,
+      "CAROUSEL": 4,
+      "IMAGE": 1
+    },
+    "ctas": {
+      "Cadastre-se": 453,
+      "Saiba mais": 211,
+      "Enviar mensagem pelo WhatsApp": 207
+    },
+    "linkDomains": {
+      "fb.me": 486,
+      "api.whatsapp.com": 221,
+      "www.direcional.com.br": 214
+    },
+    "videos": 801,
+    "images": 2359
+  },
+  {
+    "advertiser": "ecsempreendimentos",
+    "pageId": "651022421417957",
+    "ads": 1,
+    "active": 1,
+    "period": "2026-08-20..2026-08-20",
+    "regions": [
+      "metro",
+      "metrô",
+      "patriarca",
+      "zona leste"
+    ],
+    "doors": [],
+    "prices": [],
+    "formats": {
+      "IMAGE": 1
+    },
+    "ctas": {
+      "Acessar o perfil do Instagram": 1
+    },
+    "linkDomains": {
+      "instagram.com": 1
+    },
+    "videos": 0,
+    "images": 1
+  },
+  {
+    "advertiser": "Evoluc Construtora",
+    "pageId": "101921842420222",
+    "ads": 6,
+    "active": 5,
+    "period": "2026-01-26..2026-08-07",
+    "regions": [
+      "carrão",
+      "itaquera"
+    ],
+    "doors": [
+      "3 dorm",
+      "studio"
+    ],
+    "prices": [
+      "r$ 1.000",
+      "r$ 10.000"
+    ],
+    "formats": {
+      "VIDEO": 4,
+      "IMAGE": 2
+    },
+    "ctas": {
+      "Saiba mais": 4,
+      "Ver detalhes": 2
+    },
+    "linkDomains": {
+      "evolucengenharia.com.br": 3,
+      "terrasraras.evolucengenharia.com.br": 2,
+      "feirao.novolarterrasraras.com.br": 1
+    },
+    "videos": 11,
+    "images": 2
+  },
+  {
+    "advertiser": "FORZA CONSTRUTORA",
+    "pageId": "150249671722419",
+    "ads": 66,
+    "active": 66,
+    "period": "2026-07-16..2026-09-14",
+    "regions": [
+      "metrô",
+      "patriarca",
+      "são paulo",
+      "tatuapé",
+      "zona leste"
+    ],
+    "doors": [
+      "2 dorm",
+      "3 dorm"
+    ],
+    "prices": [
+      "r$ 500.",
+      "r$ 6.000",
+      "r$ 890"
+    ],
+    "formats": {
+      "VIDEO": 26,
+      "DCO": 32,
+      "CAROUSEL": 6,
+      "IMAGE": 2
+    },
+    "ctas": {
+      "Saiba mais": 18,
+      "Ver detalhes": 11,
+      "Pedir cotação": 9
+    },
+    "linkDomains": {
+      "fb.me": 53,
+      "instagram.com": 3,
+      "jardimdavila.com.br": 3
+    },
+    "videos": 78,
+    "images": 123
+  },
+  {
+    "advertiser": "Jalico Empreendimentos",
+    "pageId": "1604961216250601",
+    "ads": 18,
+    "active": 18,
+    "period": "2026-02-13..2026-09-10",
+    "regions": [
+      "itaim paulista",
+      "sapopemba",
+      "zona leste"
+    ],
+    "doors": [
+      "2 dorm"
+    ],
+    "prices": [
+      "r$ 500"
+    ],
+    "formats": {
+      "DCO": 9,
+      "VIDEO": 9
+    },
+    "ctas": {
+      "Saiba mais": 17,
+      "Ver detalhes": 1
+    },
+    "linkDomains": {
+      "fb.me": 18
+    },
+    "videos": 27,
+    "images": 17
+  },
+  {
+    "advertiser": "Livus Incorporadora",
+    "pageId": "111191788162848",
+    "ads": 108,
+    "active": 108,
+    "period": "2026-08-17..2026-09-15",
+    "regions": [
+      "bresser",
+      "metro",
+      "metrô",
+      "mooca",
+      "patriarca",
+      "são mateus",
+      "são paulo",
+      "vila prudente"
+    ],
+    "doors": [
+      "1 dorm",
+      "2 dorm"
+    ],
+    "prices": [
+      "r$10.000"
+    ],
+    "formats": {
+      "DCO": 13,
+      "VIDEO": 29,
+      "IMAGE": 66
+    },
+    "ctas": {
+      "Saiba mais": 65,
+      "Ver detalhes": 42,
+      "Cadastre-se": 1
+    },
+    "linkDomains": {
+      "fb.me": 98,
+      "api.whatsapp.com": 10
+    },
+    "videos": 87,
+    "images": 81
+  },
+  {
+    "advertiser": "Lumière Residencial",
+    "pageId": "111370661544236",
+    "ads": 3,
+    "active": 3,
+    "period": "2026-06-09..2026-07-15",
+    "regions": [
+      "guarulhos"
+    ],
+    "doors": [
+      "3 dorm"
+    ],
+    "prices": [],
+    "formats": {
+      "VIDEO": 3
+    },
+    "ctas": {
+      "Ver detalhes": 3
+    },
+    "linkDomains": {
+      "fb.me": 2,
+      "lumiereresidencial.com.br": 1
+    },
+    "videos": 9,
+    "images": 0
+  },
+  {
+    "advertiser": "MRV",
+    "pageId": "219638988065716",
+    "ads": 469,
+    "active": 423,
+    "period": "2020-05-11..2026-09-15",
+    "regions": [
+      "metrô",
+      "vila formosa"
+    ],
+    "doors": [
+      "2 dorm"
+    ],
+    "prices": [],
+    "formats": {
+      "CAROUSEL": 131,
+      "DCO": 235,
+      "VIDEO": 103
+    },
+    "ctas": {
+      "Saiba mais": 180,
+      "Enviar mensagem pelo WhatsApp": 123,
+      "Cadastre-se": 107
+    },
+    "linkDomains": {
+      "www.mrv.com.br": 176,
+      "api.whatsapp.com": 148,
+      "fb.me": 133
+    },
+    "videos": 309,
+    "images": 957
+  },
+  {
+    "advertiser": "Novus Incorporadora",
+    "pageId": "100533942408611",
+    "ads": 12,
+    "active": 12,
+    "period": "2026-05-07..2026-07-20",
+    "regions": [
+      "patriarca"
+    ],
+    "doors": [
+      "2 dorm"
+    ],
+    "prices": [
+      "r$ 50.000"
+    ],
+    "formats": {
+      "VIDEO": 12
+    },
+    "ctas": {
+      "Saiba mais": 12
+    },
+    "linkDomains": {
+      "fb.me": 12
+    },
+    "videos": 36,
+    "images": 0
+  },
+  {
+    "advertiser": "Olegario.empreendimentos",
+    "pageId": "116996421373581",
+    "ads": 28,
+    "active": 28,
+    "period": "2026-06-08..2026-09-14",
+    "regions": [
+      "metrô",
+      "são paulo"
+    ],
+    "doors": [
+      "2 dorm"
+    ],
+    "prices": [
+      "r$ 800"
+    ],
+    "formats": {
+      "VIDEO": 27,
+      "IMAGE": 1
+    },
+    "ctas": {
+      "Saiba mais": 25,
+      "Enviar mensagem pelo WhatsApp": 2,
+      "Ver detalhes": 1
+    },
+    "linkDomains": {
+      "api.whatsapp.com": 23,
+      "fb.me": 5
+    },
+    "videos": 81,
+    "images": 1
+  },
+  {
+    "advertiser": "RCC Construtora e Incorporadora",
+    "pageId": "573875999153306",
+    "ads": 7,
+    "active": 7,
+    "period": "2026-03-11..2026-03-12",
+    "regions": [
+      "penha",
+      "zona leste"
+    ],
+    "doors": [],
+    "prices": [],
+    "formats": {
+      "IMAGE": 6,
+      "VIDEO": 1
+    },
+    "ctas": {
+      "Cadastre-se": 7
+    },
+    "linkDomains": {
+      "fb.me": 7
+    },
+    "videos": 3,
+    "images": 6
+  },
+  {
+    "advertiser": "Residencial Topázio - Patriarca",
+    "pageId": "1078794601990857",
+    "ads": 15,
+    "active": 15,
+    "period": "2026-07-09..2026-09-11",
+    "regions": [
+      "metro",
+      "metrô",
+      "patriarca",
+      "zona leste"
+    ],
+    "doors": [],
+    "prices": [],
+    "formats": {
+      "VIDEO": 14,
+      "IMAGE": 1
+    },
+    "ctas": {
+      "Cadastre-se": 9,
+      "Acessar o perfil do Instagram": 6
+    },
+    "linkDomains": {
+      "fb.me": 9,
+      "instagram.com": 6
+    },
+    "videos": 42,
+    "images": 1
+  },
+  {
+    "advertiser": "Vinx Construtora",
+    "pageId": "1778841099106501",
+    "ads": 128,
+    "active": 122,
+    "period": "2019-09-02..2026-09-10",
+    "regions": [
+      "bresser",
+      "itaquera",
+      "metrô",
+      "mooca",
+      "zona leste"
+    ],
+    "doors": [
+      "2 dorm"
+    ],
+    "prices": [
+      "r$ 1.000",
+      "r$ 189.900",
+      "r$ 3.500"
+    ],
+    "formats": {
+      "IMAGE": 85,
+      "DCO": 40,
+      "VIDEO": 3
+    },
+    "ctas": {
+      "Saiba mais": 77,
+      "Ver detalhes": 41,
+      "Cadastre-se": 10
+    },
+    "linkDomains": {
+      "fb.me": 112,
+      "vinx.com.br": 7,
+      "—": 6
+    },
+    "videos": 9,
+    "images": 189
+  }
+]

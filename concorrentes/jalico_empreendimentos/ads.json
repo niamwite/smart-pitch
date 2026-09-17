@@ -1,0 +1,834 @@
+{
+  "advertiser": "jalico_empreendimentos",
+  "pageId": "1604961216250601",
+  "collectedAt": "2026-09-16T12:46:35.434412",
+  "count": 18,
+  "ads": [
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "1165097135504640",
+      "isActive": true,
+      "startDate": "2026-02-13",
+      "endDate": "2026-09-16",
+      "platforms": [
+        "INSTAGRAM"
+      ],
+      "title": null,
+      "body": "{{product.brand}}",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Saiba mais",
+      "displayFormat": "DCO",
+      "cardsCount": 2,
+      "media": [
+        {
+          "file": "1165097135504640_card0_card_image.png",
+          "bytes": 2354909,
+          "status": "skip",
+          "type": "card_image",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/633921019_1451216300041991_4546948454939468775_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeHNTDtDgvwQd09_E08oJI0VJ4rJk42kwt8nismTjaTC39Zvl2_uhj96rRUg_8NEmZRTYK4XYfRCnUjfW9PrTLnR&_nc_ohc=0IH_ajDWvtUQ7kNvwF6Tnax&_nc_oc=AdqT2tqKo3VkJ-oR2jwNrjWmFEZMEmJgLRMOToMjwYR8RpYE-Kjf9cba1NoHm4VBkyY&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQJM2J1R9jmMl6isCPJrB944oY8A5d2yDgLN7TbhvMJLhg&oe=6AB06637"
+        },
+        {
+          "file": "1165097135504640_card1_card_image.png",
+          "bytes": 1615880,
+          "status": "skip",
+          "type": "card_image",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.35426-6/633245732_2106326153554439_1489576863373603185_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeHsEENZefUqnUr40vXuH3uEO6IS4AlY3I07ohLgCVjcjU6RRSrIcaKXJX7Z0layfDVBvim3myX6HzyMCeCZiVph&_nc_ohc=l-bSL1StSfIQ7kNvwFISpC_&_nc_oc=AdpFx3DaO77B4frotvo8fUhfx4ajSBvzmCPDWEX8YdcWWwLWedIld_VIoKCr_RBr5CM&_nc_zt=14&_nc_ht=scontent.fcgh10-1.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQLI7LivyoSiSHjslpyGmPGWzTAqgatahfhLtqfkyaRqSw&oe=6AB09171"
+        }
+      ],
+      "cards": [
+        {
+          "title": "VILA JACUÍ - OBRAS ACELERADAS",
+          "body": "No ponto mais alto da Vila Jacuí com CONDIÇÕES ESPECIAIS. Lazer completo e todas as unidades com vaga de garagem.\n\nFale com um especialista agora mesmo.",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/633921019_1451216300041991_4546948454939468775_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeHNTDtDgvwQd09_E08oJI0VJ4rJk42kwt8nismTjaTC39Zvl2_uhj96rRUg_8NEmZRTYK4XYfRCnUjfW9PrTLnR&_nc_ohc=0IH_ajDWvtUQ7kNvwF6Tnax&_nc_oc=AdqT2tqKo3VkJ-oR2jwNrjWmFEZMEmJgLRMOToMjwYR8RpYE-Kjf9cba1NoHm4VBkyY&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQJM2J1R9jmMl6isCPJrB944oY8A5d2yDgLN7TbhvMJLhg&oe=6AB06637"
+        },
+        {
+          "title": "VILA JACUÍ - OBRAS ACELERADAS",
+          "body": "No ponto mais alto da Vila Jacuí com CONDIÇÕES ESPECIAIS. Lazer completo e todas as unidades com vaga de garagem.\n\nFale com um especialista agora mesmo.",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": "https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.35426-6/633245732_2106326153554439_1489576863373603185_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeHsEENZefUqnUr40vXuH3uEO6IS4AlY3I07ohLgCVjcjU6RRSrIcaKXJX7Z0layfDVBvim3myX6HzyMCeCZiVph&_nc_ohc=l-bSL1StSfIQ7kNvwFISpC_&_nc_oc=AdpFx3DaO77B4frotvo8fUhfx4ajSBvzmCPDWEX8YdcWWwLWedIld_VIoKCr_RBr5CM&_nc_zt=14&_nc_ht=scontent.fcgh10-1.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQLI7LivyoSiSHjslpyGmPGWzTAqgatahfhLtqfkyaRqSw&oe=6AB09171"
+        }
+      ]
+    },
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "1968065633838587",
+      "isActive": true,
+      "startDate": "2026-02-13",
+      "endDate": "2026-09-16",
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "title": "{{product.name}}",
+      "body": "{{product.brand}}",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Saiba mais",
+      "displayFormat": "DCO",
+      "cardsCount": 2,
+      "media": [
+        {
+          "file": "1968065633838587_card0_card_image.png",
+          "bytes": 1300465,
+          "status": "skip",
+          "type": "card_image",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.35426-6/634068387_2635167483549371_1749794875042906484_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeHqdbX3sRvdnNF1bP7hMZUThvlsVRWYsjKG-WxVFZiyMh8Ok0zYWdotcyYupcY8Qp6czsRTzZ4xyZbkBJZ_zRtR&_nc_ohc=1vRiYpF3cVkQ7kNvwH467LH&_nc_oc=AdqMiZmJ6-2xiNuqnRIynUnM0POYSlYey4KubcwdzyGuKb9mPstwO5DQdXw1BJNyrFw&_nc_zt=14&_nc_ht=scontent.fcgh10-1.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQK4humWPUCDL6fAhCvecsQcZP7VlQ-3_3uASsFUHmBa9g&oe=6AB0717C"
+        },
+        {
+          "file": "1968065633838587_card1_card_image.png",
+          "bytes": 782996,
+          "status": "skip",
+          "type": "card_image",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/631700723_1533731204404626_8626187439945434937_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeHq8N5bDTtggnOnTWXrmG8Sg1rhRxV-gpCDWuFHFX6CkDvxP1ejlnbnqgOHkDMKyR8Jm5Yxn1mEaYa22QeLbWVZ&_nc_ohc=54IDtnmYDEUQ7kNvwFQsh_H&_nc_oc=AdoOE6GzX7T_MKAjniULAjZa4LImOSNvw64cinz059w_abNK0WwYz5WRNcWLO6t4DKc&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQLKwe_BK1P9MVRZ5kRbEKOY4WPHc3HItjmT96UoKrmjug&oe=6AB09725"
+        }
+      ],
+      "cards": [
+        {
+          "title": "VILA JACUÍ - OBRAS ACELERADAS",
+          "body": "No ponto mais alto da Vila Jacuí com CONDIÇÕES ESPECIAIS. Lazer completo e todas as unidades com vaga de garagem.\n\nFale com um especialista agora mesmo.",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": "https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.35426-6/634068387_2635167483549371_1749794875042906484_n.jpg?_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeHqdbX3sRvdnNF1bP7hMZUThvlsVRWYsjKG-WxVFZiyMh8Ok0zYWdotcyYupcY8Qp6czsRTzZ4xyZbkBJZ_zRtR&_nc_ohc=1vRiYpF3cVkQ7kNvwH467LH&_nc_oc=AdqMiZmJ6-2xiNuqnRIynUnM0POYSlYey4KubcwdzyGuKb9mPstwO5DQdXw1BJNyrFw&_nc_zt=14&_nc_ht=scontent.fcgh10-1.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQK4humWPUCDL6fAhCvecsQcZP7VlQ-3_3uASsFUHmBa9g&oe=6AB0717C"
+        },
+        {
+          "title": "VILA JACUÍ - OBRAS ACELERADAS",
+          "body": "No ponto mais alto da Vila Jacuí com CONDIÇÕES ESPECIAIS. Lazer completo e todas as unidades com vaga de garagem.\n\nFale com um especialista agora mesmo.",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/631700723_1533731204404626_8626187439945434937_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeHq8N5bDTtggnOnTWXrmG8Sg1rhRxV-gpCDWuFHFX6CkDvxP1ejlnbnqgOHkDMKyR8Jm5Yxn1mEaYa22QeLbWVZ&_nc_ohc=54IDtnmYDEUQ7kNvwFQsh_H&_nc_oc=AdoOE6GzX7T_MKAjniULAjZa4LImOSNvw64cinz059w_abNK0WwYz5WRNcWLO6t4DKc&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQLKwe_BK1P9MVRZ5kRbEKOY4WPHc3HItjmT96UoKrmjug&oe=6AB09725"
+        }
+      ]
+    },
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "1283938396973830",
+      "isActive": true,
+      "startDate": "2026-02-14",
+      "endDate": "2026-09-15",
+      "platforms": [
+        "INSTAGRAM"
+      ],
+      "title": null,
+      "body": "{{product.brand}}",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Saiba mais",
+      "displayFormat": "DCO",
+      "cardsCount": 2,
+      "media": [
+        {
+          "file": "1283938396973830_card0_card_image.png",
+          "bytes": 2217263,
+          "status": "skip",
+          "type": "card_image",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.35426-6/632864682_1417619256495126_2816298040875106163_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeEf0duQWb_BLx61phV-cYlHhBYKjJiakxiEFgqMmJqTGAybDV6TQ_rYVUc_30uz4jxrB8bYvt9m3VLzFyAnT7Vj&_nc_ohc=yXPQ-zaXa5MQ7kNvwEZ4lxi&_nc_oc=AdotGeHykmxwqGmVzcAbCo_IIDTHrh2W9J4xxZMIGlf47UYDUQjtjCYyPwdZLIWcBMA&_nc_zt=14&_nc_ht=scontent.fcgh10-1.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQIhBJIkhXNXBoW0i0WdlwBCyAjcRrGAjsXJhAZOswovVQ&oe=6AB0982D"
+        },
+        {
+          "file": "1283938396973830_card1_card_image.png",
+          "bytes": 1374166,
+          "status": "skip",
+          "type": "card_image",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/633269007_937521335568036_3908460628980376064_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeGfqKOOuhY6wM79TeZB3RbZZnAtiIg_gnZmcC2IiD-CdkEzvnzfNtC6A5BeONS6ZaW8fSLrC5P237qZ7DjtXLYH&_nc_ohc=AXROhR9PZu0Q7kNvwENI4DU&_nc_oc=AdoxNFz2Jq898AJbVPwVs0mfTXy4JIAU8vKmLZEUx7pLdCIKXJq1YGAksQ0-UnUaZO8&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQLGkVuq8Z4tkJkNAuAzEQ0KIl1-Z8uMOyozSOiqeL3l8A&oe=6AB095BC"
+        }
+      ],
+      "cards": [
+        {
+          "title": "VILA JACUÍ - OBRAS ACELERADAS",
+          "body": "No ponto mais alto da Vila Jacuí com CONDIÇÕES ESPECIAIS. Lazer completo e todas as unidades com vaga de garagem.\n\nFale com um especialista agora mesmo.",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": "https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.35426-6/632864682_1417619256495126_2816298040875106163_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeEf0duQWb_BLx61phV-cYlHhBYKjJiakxiEFgqMmJqTGAybDV6TQ_rYVUc_30uz4jxrB8bYvt9m3VLzFyAnT7Vj&_nc_ohc=yXPQ-zaXa5MQ7kNvwEZ4lxi&_nc_oc=AdotGeHykmxwqGmVzcAbCo_IIDTHrh2W9J4xxZMIGlf47UYDUQjtjCYyPwdZLIWcBMA&_nc_zt=14&_nc_ht=scontent.fcgh10-1.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQIhBJIkhXNXBoW0i0WdlwBCyAjcRrGAjsXJhAZOswovVQ&oe=6AB0982D"
+        },
+        {
+          "title": "VILA JACUÍ - OBRAS ACELERADAS",
+          "body": "No ponto mais alto da Vila Jacuí com CONDIÇÕES ESPECIAIS. Lazer completo e todas as unidades com vaga de garagem.\n\nFale com um especialista agora mesmo.",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/633269007_937521335568036_3908460628980376064_n.jpg?_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeGfqKOOuhY6wM79TeZB3RbZZnAtiIg_gnZmcC2IiD-CdkEzvnzfNtC6A5BeONS6ZaW8fSLrC5P237qZ7DjtXLYH&_nc_ohc=AXROhR9PZu0Q7kNvwENI4DU&_nc_oc=AdoxNFz2Jq898AJbVPwVs0mfTXy4JIAU8vKmLZEUx7pLdCIKXJq1YGAksQ0-UnUaZO8&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQLGkVuq8Z4tkJkNAuAzEQ0KIl1-Z8uMOyozSOiqeL3l8A&oe=6AB095BC"
+        }
+      ]
+    },
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "1221733903378146",
+      "isActive": true,
+      "startDate": "2026-02-27",
+      "endDate": "2026-09-16",
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "title": "{{product.name}}",
+      "body": "{{product.brand}}",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Saiba mais",
+      "displayFormat": "DCO",
+      "cardsCount": 2,
+      "media": [
+        {
+          "file": "1221733903378146_card0_card_image.png",
+          "bytes": 2502317,
+          "status": "skip",
+          "type": "card_image",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/643721566_2961848440678870_7137165239703869084_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeFVPj06OLZGhdMOZym3y2bmWfx__BtCVjJZ_H_8G0JWMvH5Is4FUgob5AyIrOZLufD4HtO1VxX8shxLttfPGqgY&_nc_ohc=UNYzNtdEUHEQ7kNvwGvQXpe&_nc_oc=AdoSizVcSMuB0S1anU6_INTauRovk9ZrJB7_s54noRUojeLsuMg4e0EOzVIuxTb7dpc&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQIaxiC4KwMCDWwiwEYPSIR3Ek_fib8VQgzydBHH7ThxrQ&oe=6AB081FD"
+        },
+        {
+          "file": "1221733903378146_card1_card_image.png",
+          "bytes": 1719969,
+          "status": "skip",
+          "type": "card_image",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.35426-6/643879844_909023148768995_4266773222362988186_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeF7WgeB-Koz1xtrnvj0GdAMp2t00Y0ZRp-na3TRjRlGnzhXs8RgaF-Xe1vRk4KpdaBXB7btC3GfDwaw_nTmkUha&_nc_ohc=fO_2rD4A9UkQ7kNvwEMmhTt&_nc_oc=AdqOjCp1rVo8oxR5KvD_7EU_WPcrjamHNoT8qdOdxLK-ICKD2FuFgrTojaxpWyj6-SY&_nc_zt=14&_nc_ht=scontent.fcgh10-1.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQKiDnplTXPXUud9D6fSAs3SeVh0FiNu41W62FGuq9rmBw&oe=6AB08283"
+        }
+      ],
+      "cards": [
+        {
+          "title": null,
+          "body": "MENSAIS DE R$ 500,00*\n2 dorms com condições do Minha Casa Minha Vida.  \n✅ Entrada facilitada  \n✅ Subsídio do Governo  \n✅ A poucos passos da Estação Sapopemba\n\nVISITE O DECORADO\n*Consulte condições no plantão de vendas",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/643721566_2961848440678870_7137165239703869084_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeFVPj06OLZGhdMOZym3y2bmWfx__BtCVjJZ_H_8G0JWMvH5Is4FUgob5AyIrOZLufD4HtO1VxX8shxLttfPGqgY&_nc_ohc=UNYzNtdEUHEQ7kNvwGvQXpe&_nc_oc=AdoSizVcSMuB0S1anU6_INTauRovk9ZrJB7_s54noRUojeLsuMg4e0EOzVIuxTb7dpc&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQIaxiC4KwMCDWwiwEYPSIR3Ek_fib8VQgzydBHH7ThxrQ&oe=6AB081FD"
+        },
+        {
+          "title": null,
+          "body": "MENSAIS DE R$ 500,00*\n2 dorms com condições do Minha Casa Minha Vida.  \n✅ Entrada facilitada  \n✅ Subsídio do Governo  \n✅ A poucos passos da Estação Sapopemba\n\nVISITE O DECORADO\n*Consulte condições no plantão de vendas",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": "https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.35426-6/643879844_909023148768995_4266773222362988186_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeF7WgeB-Koz1xtrnvj0GdAMp2t00Y0ZRp-na3TRjRlGnzhXs8RgaF-Xe1vRk4KpdaBXB7btC3GfDwaw_nTmkUha&_nc_ohc=fO_2rD4A9UkQ7kNvwEMmhTt&_nc_oc=AdqOjCp1rVo8oxR5KvD_7EU_WPcrjamHNoT8qdOdxLK-ICKD2FuFgrTojaxpWyj6-SY&_nc_zt=14&_nc_ht=scontent.fcgh10-1.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQKiDnplTXPXUud9D6fSAs3SeVh0FiNu41W62FGuq9rmBw&oe=6AB08283"
+        }
+      ]
+    },
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "1894840364489137",
+      "isActive": true,
+      "startDate": "2026-02-28",
+      "endDate": "2026-09-16",
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "title": "{{product.name}}",
+      "body": "{{product.brand}}",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Saiba mais",
+      "displayFormat": "DCO",
+      "cardsCount": 2,
+      "media": [
+        {
+          "file": "1894840364489137_card0_card_image.png",
+          "bytes": 1218341,
+          "status": "skip",
+          "type": "card_image",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/641535699_756131017297491_5325065354915341948_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeG0qwS4ZMucilyqB_Dvb1DpQ2-wHJKcDTlDb7AckpwNOaWP9Nvk_I_DR5e7Bw8dzNPZz3fPljFdJmPjoh66mPow&_nc_ohc=ANK4DdWwA5kQ7kNvwFWOBSE&_nc_oc=AdpGUaQYyFbm7PQjThO9K5_sjiac30-xRh7qoj9n_qsVkS3ogdv8ZkT9FG-qRA_GKZI&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQJpq81obwKpfDb_Wr1rQnIR1jJiPVXbzVuokmxcRn_TZQ&oe=6AB09421"
+        },
+        {
+          "file": "1894840364489137_card1_card_image.png",
+          "bytes": 964272,
+          "status": "skip",
+          "type": "card_image",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/644303463_1447640343557109_7204900476525369320_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeHDPujBRq6oCQh5Jf7XAZyAmDgzFftjI2GYODMV-2MjYcCKV1QD-C4OJZKAdRh2hWDSy6WWh1YbWhKadbTqnSM4&_nc_ohc=Ai_dtU8h708Q7kNvwFF5ofP&_nc_oc=Adqc1vd9NsPpFp9a6JBRSM-ajxphGFq_dSEcfRarHfVBtTgQhV8mbNUbqdLZ1Pwkr9U&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQKOWDr9ySULREsQeyFOGYtQ3kWmDyDsh-zwA85T1R4bQg&oe=6AB069A3"
+        }
+      ],
+      "cards": [
+        {
+          "title": null,
+          "body": "MENSAIS DE R$ 500,00*\n2 dorms com condições do Minha Casa Minha Vida.  \n✅ Entrada facilitada  \n✅ Subsídio do Governo  \n✅ A poucos passos da Estação Sapopemba\n\nVISITE O DECORADO\n*Consulte condições no plantão de vendas",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/641535699_756131017297491_5325065354915341948_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeG0qwS4ZMucilyqB_Dvb1DpQ2-wHJKcDTlDb7AckpwNOaWP9Nvk_I_DR5e7Bw8dzNPZz3fPljFdJmPjoh66mPow&_nc_ohc=ANK4DdWwA5kQ7kNvwFWOBSE&_nc_oc=AdpGUaQYyFbm7PQjThO9K5_sjiac30-xRh7qoj9n_qsVkS3ogdv8ZkT9FG-qRA_GKZI&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQJpq81obwKpfDb_Wr1rQnIR1jJiPVXbzVuokmxcRn_TZQ&oe=6AB09421"
+        },
+        {
+          "title": null,
+          "body": "MENSAIS DE R$ 500,00*\n2 dorms com condições do Minha Casa Minha Vida.  \n✅ Entrada facilitada  \n✅ Subsídio do Governo  \n✅ A poucos passos da Estação Sapopemba\n\nVISITE O DECORADO\n*Consulte condições no plantão de vendas",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/644303463_1447640343557109_7204900476525369320_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeHDPujBRq6oCQh5Jf7XAZyAmDgzFftjI2GYODMV-2MjYcCKV1QD-C4OJZKAdRh2hWDSy6WWh1YbWhKadbTqnSM4&_nc_ohc=Ai_dtU8h708Q7kNvwFF5ofP&_nc_oc=Adqc1vd9NsPpFp9a6JBRSM-ajxphGFq_dSEcfRarHfVBtTgQhV8mbNUbqdLZ1Pwkr9U&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQKOWDr9ySULREsQeyFOGYtQ3kWmDyDsh-zwA85T1R4bQg&oe=6AB069A3"
+        }
+      ]
+    },
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "1587783305627853",
+      "isActive": true,
+      "startDate": "2026-04-22",
+      "endDate": "2026-09-05",
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "title": "JALICO SAPOPEMBA",
+      "body": "Seu apê NOVINHO na Zona Leste!  \n2 dorms com condições do Minha Casa Minha Vida.  \n✅ Entrada facilitada  \n✅ Subsídio do Governo  \n✅ A poucos passos da Estação Sapopemba\n\nVISITE O DECORADO",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Saiba mais",
+      "displayFormat": "VIDEO",
+      "cardsCount": 0,
+      "media": [
+        {
+          "file": "1587783305627853_0_video_hd.mp4",
+          "bytes": 7857840,
+          "status": "skip",
+          "type": "video_hd",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPOX8Y6mV6izt_F4klEst8iH6aWsUy5-PyZKGkVDotpTYgteBoJvpY34lSBPSEy_DoKEtcswnH7qnpmotW64X8SQXErQrqXDGI5Ow-U2vhlVQ.mp4?_nc_cat=105&_nc_oc=AdqznnmzjbpoPAuK8fa-Lu2AGmR6sdEff6CiIsLP9cCUQSczMdNnLLlsr9IToc6XmG4&_nc_sid=b66105&_nc_ht=scontent.fcgh10-1.fna.fbcdn.net&_nc_ohc=hW_5QSzT_YgQ7kNvwFsNFwS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NzM0OTE0Mjc0MDA4ODMsImFzc2V0X2FnZV9kYXlzIjoxNTEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=4bc0a2bcaaf37fcd&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRDQzNTY5Q0IyMkM2RjRBRUJEOTkxNjk4NzhFMUFCNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRDNEQzQkM0RTI0RUZGNzQ5ODA2OTgxNzREMDUyMUIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbm8oThgoL5BRUCKAJDMywXQEVVYEGJN0wYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFZ_R09oQ8c-2Hg2Eg1H8eDc7JKa8e4W09zskprx7hbT3jPfh8qgvM72n2NT78m1prhNV3y2oR8HIPjjl3OM7FE&oh=00_AQJaeEWxxvK7xDB1J7-tkkgiHAdgvePyTum3vureayCy5w&oe=6AB0788B"
+        },
+        {
+          "file": "1587783305627853_0_video_sd.mp4",
+          "bytes": 1793959,
+          "status": "skip",
+          "type": "video_sd",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQNZo2F0y565oX4LdbWsK-a7u1AY1WMrcKts0tLVdbShkaM5EWRkgUW2ncbQNYqUEKjUJDxQeFAZ9gWJRhyPtQ7IMSRRpP7Jt1dO91ai7A.mp4?_nc_cat=108&_nc_oc=AdpMMw1vsd9_1voAtDT7aw7V9eu8fPhZH1fYWcvOhDXws3MoAd6OL-gHZcI8_zxKXl4&_nc_sid=ef5aa3&_nc_ht=scontent.fcgh10-1.fna.fbcdn.net&_nc_ohc=AuNXJyYGqnwQ7kNvwFW8cnh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY3MzQ5MTQyNzQwMDg4MywiYXNzZXRfYWdlX2RheXMiOjE1MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeF3pw7MqlapAE23qa4kFF0FxiPb3e1BIXHGI9vd7UEhcZPo4nI4SyZ7WAnm1rB1Dj7zuMhGj-kv5wSNVVYqOCOi&oh=00_AQIu6nJkRrZpLmIOdQst_JiEMayR4TU-kNK8VU-vt3f3Cw&oe=6AB0676A"
+        },
+        {
+          "file": "1587783305627853_0_video_preview.jpg",
+          "bytes": 292559,
+          "status": "skip",
+          "type": "video_preview",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/672684157_2959863510890889_2805055369350351111_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeHoGfGCUm1BKaooC4AviIaTKIVm9_96s6oohWb3_3qzqnFHUvmI64FcLtSEnFNuf-zDlCPUztPigW5JBrIyW0Ln&_nc_ohc=bW1ibwKEGAYQ7kNvwFY1F8P&_nc_oc=Ado9rMWIhDQTZcTt02bSUe399TX33hrmz0GFwIqHJ_s7ZRYrhsd4tq1B3UFtEv0DvVU&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQIcEzVUomh-frEXLR3Af1YS8w3t7v01jnmf23afT8ge5A&oe=6AB0819C"
+        }
+      ]
+    },
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "1291950739160886",
+      "isActive": true,
+      "startDate": "2026-04-23",
+      "endDate": "2026-09-16",
+      "platforms": [
+        "INSTAGRAM"
+      ],
+      "title": null,
+      "body": "No ponto mais alto da Vila Jacuí com CONDIÇÕES ESPECIAIS. Lazer completo e todas as unidades com vaga de garagem.\n\nFale com um especialista agora mesmo.",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Saiba mais",
+      "displayFormat": "VIDEO",
+      "cardsCount": 0,
+      "media": [
+        {
+          "file": "1291950739160886_0_video_hd.mp4",
+          "bytes": 7391187,
+          "status": "skip",
+          "type": "video_hd",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPOQI_jDxvVOhpkKhTa_UXfjhT_6KFbv35PQGyt994_ytiQWxrwZam15yTSYoRCHI0_uxvVdzC9lwh65Fwe1N3xpo8VXoSBvHwGx_JK7CrNBg.mp4?_nc_cat=109&_nc_oc=Adq0MM5cmOMHG55sfhQ42QujbTnrxRv1_fccauQaqvdR7gWUqLJ6ThgucnYX067X7oE&_nc_sid=b66105&_nc_ht=scontent.fcgh10-1.fna.fbcdn.net&_nc_ohc=32cJWP74b-kQ7kNvwE2a6gp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MzI1NDExOTE2NjgwNzAsImFzc2V0X2FnZV9kYXlzIjoxNzMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ec57535626272f00&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80RDRBMkRGMjNFQzQ2QTA5RjU5MjM4Mzc5NTRENEY5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IxNDM5NTAxQUVFNTdERjNBQUNENDYyNTdBNEVBMzhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbMhdjN77iLBRUCKAJDMywXQEdEOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFiRTsoqCUmSCnHYksQZhmF6pZILmvOKbXqlkgua84ptdlvsGRlMSDH_hfV6gZB52fVVn2hIAzpduZ_Wi6z0-o-&oh=00_AQIwy7KtTdngev2G1rYJEtcbxfiGxCatQKy4eukRDKkahw&oe=6AB0999B"
+        },
+        {
+          "file": "1291950739160886_0_video_sd.mp4",
+          "bytes": 1767624,
+          "status": "skip",
+          "type": "video_sd",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/o1/v/t2/f2/m412/AQPeQc_UqQs7LrN5qNUVA1v230d_p8DbMHcqSeL_A7R6Nlg2ed7da-NGYNcWEg60GaQYe-VhUzu3fFtGUHBGKPdAyZYT42i4nLnKHu9Gxg.mp4?_nc_cat=101&_nc_oc=Ado3uO4h759MAvsGN52AXuYB4lV_VXlhyhZtRYjrP-0QoP48Rfpz2uNUlfWLexELplY&_nc_sid=ef5aa3&_nc_ht=scontent.fcgh10-2.fna.fbcdn.net&_nc_ohc=GUDnf6AV49MQ7kNvwE9Yn3J&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQzMjU0MTE5MTY2ODA3MCwiYXNzZXRfYWdlX2RheXMiOjE3MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeF0FvJEqqIKJDggy0_Y7lCzgCF0FRiT_zSAIXQVGJP_NEMTcSEK1wAJJ5Nw5oyVcU7KZmDtfMOeLfZUowhDx-ot&oh=00_AQI-5kQcYI_luXTsEJToYkuteCuwLcmR5aAOpby_dbQCDQ&oe=6AB09091"
+        },
+        {
+          "file": "1291950739160886_0_video_preview.jpg",
+          "bytes": 270280,
+          "status": "skip",
+          "type": "video_preview",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/659117658_978313404518565_2338363727640903466_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeFc_PQrwf-R3IVQ_fQybY8zZ4OurS6fgZ1ng66tLp-BnSkv_saZ4gHwYpSVwx6HegRRkCj9_tziajUfyBYNz2bw&_nc_ohc=eNkH3MpWsaIQ7kNvwHDIz6D&_nc_oc=Adoe-gwswPXvSVjEXMVHLAMEpCUpGBxZaBPRzMj0Bhq0jvRoWo7eOy8kEPJpj8uWpE4&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQIljBHC6mYFhEs_4aIVQu1sA4fdykzuGLhhCjrpGChisw&oe=6AB0911D"
+        }
+      ]
+    },
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "1177445271087412",
+      "isActive": true,
+      "startDate": "2026-04-23",
+      "endDate": "2026-09-16",
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "title": "JALICO SAPOPEMBA",
+      "body": "Seu apê NOVINHO na Zona Leste!  \n2 dorms com condições do Minha Casa Minha Vida.  \n✅ Entrada facilitada  \n✅ Subsídio do Governo  \n✅ A poucos passos da Estação Sapopemba\n\nVISITE O DECORADO",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Saiba mais",
+      "displayFormat": "VIDEO",
+      "cardsCount": 0,
+      "media": [
+        {
+          "file": "1177445271087412_0_video_hd.mp4",
+          "bytes": 12151943,
+          "status": "skip",
+          "type": "video_hd",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQNwNEZhdcYlv8C9oMl5E3W1K4sCHa6hARW6PqzVnGKpc0n_CI-F_4PtCJilqLUEoJnEIp9ZfVjUsU3TOp3HC9XDvqC2ISzcdUmYyRDL4UIQSw.mp4?_nc_cat=110&_nc_oc=AdqPhNEtFaZhawTBC8g_vLuutIDNAEZ69bE7W2ghPtfRKRag9QPKCUwzidc5okegmVI&_nc_sid=b66105&_nc_ht=scontent.fcgh10-1.fna.fbcdn.net&_nc_ohc=vpCsF-rZBqgQ7kNvwH5Aig0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExODkxMDYyNTk5MzkyMTQsImFzc2V0X2FnZV9kYXlzIjozNTQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo1OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=704c912ab586b26b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85MjQ4N0Q4ODMxRDE5NjI5OUQ1OEQxRDk2MTI3MkRCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0UyNDg4ODVFNzEzNjQ5MEE3QzVENTJGQjNENTQ4OUJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACacvsqDjN-cBBUCKAJDMywXQE2SLQ5WBBkYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHfEY65GV8TnmXnPA7PBopgkF24cJX_jfKQXbhwlf-N8vkNrDoqn49nPufuHHYdY_jbfMBWnaLMXgyA874b9zIW&oh=00_AQLMBIG6CCtYvlaZptw7LVyOYgotFN9r1vGMP9nO0aYefA&oe=6AB082D6"
+        },
+        {
+          "file": "1177445271087412_0_video_sd.mp4",
+          "bytes": 2659363,
+          "status": "skip",
+          "type": "video_sd",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQMz_Rdg6XaACdskrZBUPGZIe-CEjAKMDsOqbsmccxQ3yrjhubUNXaVB_iUKRY7R4nWUW_pb9NNI-XBaamKZe5yndGf75kC_Pw4w0B44Og.mp4?_nc_cat=110&_nc_oc=AdpljQtaxCEfDvR3xtd9WiKLO2xRWtYSoCJvnzRKaRx2rUIY6g5kiRHQ40IPmyRsulg&_nc_sid=ef5aa3&_nc_ht=scontent.fcgh10-1.fna.fbcdn.net&_nc_ohc=6cuuMrnqnocQ7kNvwF_lZXD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTE4OTEwNjI1OTkzOTIxNCwiYXNzZXRfYWdlX2RheXMiOjM1NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjU5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGxS4QT-5c2Kl85BBgT1S9GmRK2abjUKWqZErZpuNQpagKioM02CBQJb1x6zaHsR0nTGNXLdAjWEYeiGEhRSc57&oh=00_AQIlr1zWB-UNxryLLwZPBeQ-ptgohyN1Bshp_Q9sAsiHFA&oe=6AB072F0"
+        },
+        {
+          "file": "1177445271087412_0_video_preview.jpg",
+          "bytes": 266809,
+          "status": "skip",
+          "type": "video_preview",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.35426-6/658993210_2778838255799586_6255990429525416594_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeFZL5GQnguGZN6BYaAgjG25Q8jCBNairn1DyMIE1qKuffL0pMETSvFmo0W7tXgAh4cMpLolrOHM8s-KL5Da-Vmq&_nc_ohc=rKZ16Np_kOIQ7kNvwEe-3XI&_nc_oc=Ado_8qpO_KLpI9i3znoV88z2mKFrFdEt2FRF4OmkEP-0MejwT00o5e-C05p7IBc5ydI&_nc_zt=14&_nc_ht=scontent.fcgh10-1.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQIB_IhO7OvAYR9Bg9yiLeFeM3hd-JfFaL4aze1mT3WEwA&oe=6AB0903F"
+        }
+      ]
+    },
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "822847870385159",
+      "isActive": true,
+      "startDate": "2026-04-23",
+      "endDate": "2026-09-13",
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "title": "JALICO SAPOPEMBA",
+      "body": "Seu apê NOVINHO na Zona Leste!  \n2 dorms com condições do Minha Casa Minha Vida.  \n✅ Entrada facilitada  \n✅ Subsídio do Governo  \n✅ A poucos passos da Estação Sapopemba\n\nVISITE O DECORADO",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Saiba mais",
+      "displayFormat": "VIDEO",
+      "cardsCount": 0,
+      "media": [
+        {
+          "file": "822847870385159_0_video_hd.mp4",
+          "bytes": 9216067,
+          "status": "skip",
+          "type": "video_hd",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQM35Xu0EtFKEDdMbi9P6Kg2gY0EeuxNZDW-xrax8szKrV8Y2UIwMcP1M0v8D4_MpnAc67ZSQaq4OXaYSZ3Sy4nfaLxEFdnwy2wPO2qK0t9mrw.mp4?_nc_cat=105&_nc_oc=Ado-A5sQvE8VqPXDjfN4nkcgDWZG-1WfiyPvURZV3me5BkX3l6YLiWILkDizU8-QJ1E&_nc_sid=b66105&_nc_ht=scontent.fcgh10-1.fna.fbcdn.net&_nc_ohc=Ttzezc40VsQQ7kNvwGdXSsN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjkzNTAwMDQwMjQ3ODY4MiwiYXNzZXRfYWdlX2RheXMiOjE1MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=16543c093e9ae766&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GNTQwNzI3RTkwRDZCNzRCRDk3NkYxREU1ODc3N0FCRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0JGNEQxREIwOTJENzAxOTMzRDk3NTQ3OTUzQkM2OEI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0mdbtl5ipAxUCKAJDMywXQEZLAgxJul4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFP3SK7W-xjBI-b2pJzNyhJfE-pt9cs-u98T6m31yz675L7xAKGiQsYGvfd-Zyc5gQwgREzmPdwL9uIN29m4Cy6&oh=00_AQIMmYuYmWDRzVJTep-FF4feoiCT5DGAXt5eoa5PV5rf7w&oe=6AB07457"
+        },
+        {
+          "file": "822847870385159_0_video_sd.mp4",
+          "bytes": 2060655,
+          "status": "skip",
+          "type": "video_sd",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQPGlfuEQpVMSTDceJ5fDRu7rBJ_-SD8XyzynCj0U9ASX1KHhRGsMjU2uEmxQ9CYecxl3UEsX1b0vEjADep1WFsV6hcwklz9n21HpX2W3g.mp4?_nc_cat=110&_nc_oc=AdoeppEJq5xGZVJ4PJa9ieB3LpIeCVWr-IfKfqK59codwv8S3A310_FN33QFwEK_5-g&_nc_sid=ef5aa3&_nc_ht=scontent.fcgh10-1.fna.fbcdn.net&_nc_ohc=HDlVDZsYZtMQ7kNvwEbvwoP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6OTM1MDAwNDAyNDc4NjgyLCJhc3NldF9hZ2VfZGF5cyI6MTUxLCJ2aV91c2VjYXNlX2lkIjoxMDc5OSwiZHVyYXRpb25fcyI6NDQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeG_hd7DzULhdYBo8HI1NLZDSNg_xbbhqy1I2D_FtuGrLcg2sH9VOQ4ZBFpjh7gXWZwyo_-ZH0Ckf3jaHY1cdM2o&oh=00_AQIha0HgapFjmWxaKh3WjHJXRwnqA3IDnvWUOGwMsi0ENA&oe=6AB06EF4"
+        },
+        {
+          "file": "822847870385159_0_video_preview.jpg",
+          "bytes": 186001,
+          "status": "skip",
+          "type": "video_preview",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.35426-6/671466643_1978786152754601_5817048579786163628_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeGAB072IEbedzR_Sv806dQeRjIv-KwiAB9GMi_4rCIAH73MLntxtwZQF5a2tOgkxmPwUuB-tkZmrTBgrUzO0rqz&_nc_ohc=Z2oC_N8mmiIQ7kNvwEou8n4&_nc_oc=AdpAzAxX1Y6qLimY5fj41ukF1tT19vo3HuiRoFCTloFzablVBh_ClFPPnTNV4dTx6iA&_nc_zt=14&_nc_ht=scontent.fcgh10-1.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQJS94JqS0SasP6_2QEFnk_B3SXoXelzvICYCI48S8NH6Q&oe=6AB085B7"
+        }
+      ]
+    },
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "2257494514786354",
+      "isActive": true,
+      "startDate": "2026-04-28",
+      "endDate": "2026-09-16",
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "title": "JALICO SAPOPEMBA",
+      "body": "Seu apê NOVINHO na Zona Leste!  \n2 dorms com condições do Minha Casa Minha Vida.  \n✅ Entrada facilitada  \n✅ Subsídio do Governo  \n✅ A poucos passos da Estação Sapopemba\n\nVISITE O DECORADO",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Saiba mais",
+      "displayFormat": "VIDEO",
+      "cardsCount": 0,
+      "media": [
+        {
+          "file": "2257494514786354_0_video_hd.mp4",
+          "bytes": 9461748,
+          "status": "skip",
+          "type": "video_hd",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQNuyGafxT5JgkFdNJ281mxSQ1bwJQnyKOJUgydjd9i1zDqyOIPWJ5EwWlDiI2BtXHgHbGXnIZtPxU_pdZC4SbQRNyKuOs7k_lQXPyLuoxvQEA.mp4?_nc_cat=104&_nc_oc=Adp_SswO6xQrXkE2msyL5UCiVVBFVh_Gn3-jSGCR8caf2Xc-lgVjL091YRBxTpEif0k&_nc_sid=b66105&_nc_ht=scontent.fcgh10-2.fna.fbcdn.net&_nc_ohc=9PLfSIi1_74Q7kNvwEQELz5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI3ODM3NTAxNjUzMjc1MDksImFzc2V0X2FnZV9kYXlzIjoxNTEsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=68c6868ca49efc42&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMTQzRDBENTg4NTlBMkNBOTJDRjlCQ0Q1OUEzMjhBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNGNDA4NUM2QjkwOUQzMDVGMTg4OTg0MjczM0UxRDhDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaquvv7yvPxCRUCKAJDMywXQEUAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHTodtWon-JM1rAfVGauXZ4HsAu7KBW6bUewC7soFbptYY9Ng9Zu1yVYXuILspub1oREV4W1ntJi295hskAzkV3&_nc_enc=QR8F6qcW5H-DRpCLzZ9L5mE3wYlRHCtJdanhFvf1OJJMaNrhxT5m_kxw8BQ1KvqCkXCJOtYdWZQr_AYD0Ntg0JefoMpI8_Jmf6ptUqDuhJeN7X2Swz_9cCpAtJg&oh=00_AQJfVSBtBpOZ2sSO90G8d-DDaiLWEht6B5js8FhGOhaqZw&oe=6AB08D5C"
+        },
+        {
+          "file": "2257494514786354_0_video_sd.mp4",
+          "bytes": 2059896,
+          "status": "skip",
+          "type": "video_sd",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQNGJ7_zKphD3_TUgG4z7OwMhsREcc3fx8kKEYcbZRcveoYpJ0o1Zean3sdxFERd8M9snW54VOSo0FpZVvyrkhtMOcKlf5J7J4VdoA6AWw.mp4?_nc_cat=104&_nc_oc=AdrWQefU-zR9Nz4l23MQ8cwvyKbtCu3xNqilEy2H2yMwUitM1d_NuUecmbnQBop7Uno&_nc_sid=ef5aa3&_nc_ht=scontent.fcgh10-1.fna.fbcdn.net&_nc_ohc=e8GOpkZvWyQQ7kNvwE6Iz3I&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjc4Mzc1MDE2NTMyNzUwOSwiYXNzZXRfYWdlX2RheXMiOjE1MSwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGBmr61dQhPuKmvbVvPIVZy-t4SlVIN35f63hKVUg3fl-L6sSbPl5SarBjzs_QjN4BRHw8j7GGW3fBNwjJWWsCG&oh=00_AQKiQNoh4px-l31ugQj3i3ZAl-lGE7_weaGACtHIr9rueA&oe=6AB08062"
+        },
+        {
+          "file": "2257494514786354_0_video_preview.jpg",
+          "bytes": 434616,
+          "status": "skip",
+          "type": "video_preview",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/673533393_1447059009890383_3517191128721625570_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeHKAeEcN_wJWeU0dcfffc1KR_t9WAg4USJH-31YCDhRIqVqZ6Tm1bROUCsdbULmTD-fbFRavkRIpojO95Thcg_e&_nc_ohc=PlwyatZBGnEQ7kNvwGzhJx0&_nc_oc=AdoJPFr2YJs_lHShFTPaQPQnFL2OXaV9W5tP2Twhov1zDhVmlEYhV2ljYku5qZwq0aA&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQIUXOhM6C_-ANw1AP1bTluARiFHmW4t6JNTmEBrGTqhKA&oe=6AB0629E"
+        }
+      ]
+    },
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "2065122757404323",
+      "isActive": true,
+      "startDate": "2026-05-29",
+      "endDate": "2026-09-13",
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "title": "JALICO SAPOPEMBA",
+      "body": "Seu apê NOVINHO na Zona Leste!  \n2 dorms com condições do Minha Casa Minha Vida.  \n✅ Entrada facilitada  \n✅ Subsídio do Governo  \n✅ A poucos passos da Estação Sapopemba\n\nVISITE O DECORADO",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Ver detalhes",
+      "displayFormat": "VIDEO",
+      "cardsCount": 0,
+      "media": [
+        {
+          "file": "2065122757404323_0_video_hd.mp4",
+          "bytes": 7818145,
+          "status": "skip",
+          "type": "video_hd",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQNhlTwlrL-6S5HOTvRnYMiRWf4GESq10UT6nL5YIrA4NBpWivYRYtaz3zIsGSU0YRYsowDs4r3W045z7HTc-IkMtr0UkiazwEt8LD8-LbZspA.mp4?_nc_cat=107&_nc_oc=AdpsarHIDPzRdyjq2lsjzrjA7YtJu9_vsEBRbmM1_dORvvtvsVOla7IG4elw362WV1M&_nc_sid=b66105&_nc_ht=scontent.fcgh10-2.fna.fbcdn.net&_nc_ohc=a6CMs62xc3gQ7kNvwFoUUlB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwMTQ3MjYxMjIzOTgyNTEsImFzc2V0X2FnZV9kYXlzIjozNTQsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8b9b9d471c1777f2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QTQ3QTE4QjVDNkQxNjRGNzUyOTI5NzM4NDRCRDZCOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIzNDkzQTNEREJFMjNFNUU3Mjc2NzE0Q0NERkZFNzk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbWiMOtv5iUBxUCKAJDMywXQEWFgQYk3S8YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFPkp_Ye4-tPEAvbc66iwOxE91EP3OaoW8T3UQ_c5qhbyJu73-OLLvdjidPNf-mX9IfEa23MH9XsqEoFC7OYLzu&oh=00_AQJi64YNLdQmOo4uyJ6acupaG3DicCHRIH0K_k_XqQ8iqA&oe=6AB08B21"
+        },
+        {
+          "file": "2065122757404323_0_video_sd.mp4",
+          "bytes": 1776960,
+          "status": "skip",
+          "type": "video_sd",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/o1/v/t2/f2/m412/AQOFW51V7eFr2IV4__cr_EvpVOYBPsMh9s9AJ_u6nXcCTv-wOLfZdm8o_c_pUDob6obWEtX7xphzduawdZ8r1apS6cugwUekYiFUgXijdQ.mp4?_nc_cat=106&_nc_oc=AdpM9_JBD71aOWC2Amy-T3PUEGyakO8YXcSSdfiSE2tnC_6h3tJY7tsEuzmksH_vU9U&_nc_sid=ef5aa3&_nc_ht=scontent.fcgh10-2.fna.fbcdn.net&_nc_ohc=XcuHO_X1EXoQ7kNvwFb_2PG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjAxNDcyNjEyMjM5ODI1MSwiYXNzZXRfYWdlX2RheXMiOjM1NCwidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHKsboDTk8agYggDx6-xNxqb9RUEcnNTpdv1FQRyc1Ol9PRmopfUNpFCECVNt1cRjcWufqz8utbXb-f1tOeU2Hy&oh=00_AQKu0Gma-V0DexjHVk1jYEY69K-XNKrMIqMzcMKJzPYa8A&oe=6AB07B20"
+        },
+        {
+          "file": "2065122757404323_0_video_preview.jpg",
+          "bytes": 258351,
+          "status": "skip",
+          "type": "video_preview",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.35426-6/709679867_1037744441912753_4996270837216037644_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeF-OcNTaNNu1yZyMWAxo8luvCNjVLKdAX-8I2NUsp0Bf_ar2mu4XL1B7DgEsD33SWHKlKWSV6n_h24w_ByNkKLO&_nc_ohc=4tnMdh8pYzgQ7kNvwE0H2wZ&_nc_oc=AdobykG_eKIwJQOQL7_v8HrSdJQXQ_mZROR1SNXDtx-iD3FKkQMd2veabcfRFRC9GqU&_nc_zt=14&_nc_ht=scontent.fcgh10-1.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQLhicQ6awF3NCp7embWbLw51pyCL4eZIGSZVsMTIKrGGg&oe=6AB06BCE"
+        }
+      ]
+    },
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "1175034838137660",
+      "isActive": true,
+      "startDate": "2026-06-12",
+      "endDate": "2026-09-16",
+      "platforms": [
+        "INSTAGRAM"
+      ],
+      "title": null,
+      "body": "No ponto mais alto da Vila Jacuí com CONDIÇÕES ESPECIAIS. Lazer completo e todas as unidades com vaga de garagem.\n\nFale com um especialista agora mesmo.",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Saiba mais",
+      "displayFormat": "VIDEO",
+      "cardsCount": 0,
+      "media": [
+        {
+          "file": "1175034838137660_0_video_hd.mp4",
+          "bytes": 7391187,
+          "status": "skip",
+          "type": "video_hd",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPOQI_jDxvVOhpkKhTa_UXfjhT_6KFbv35PQGyt994_ytiQWxrwZam15yTSYoRCHI0_uxvVdzC9lwh65Fwe1N3xpo8VXoSBvHwGx_JK7CrNBg.mp4?_nc_cat=109&_nc_oc=Adq0MM5cmOMHG55sfhQ42QujbTnrxRv1_fccauQaqvdR7gWUqLJ6ThgucnYX067X7oE&_nc_sid=b66105&_nc_ht=scontent.fcgh10-1.fna.fbcdn.net&_nc_ohc=32cJWP74b-kQ7kNvwE2a6gp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MzI1NDExOTE2NjgwNzAsImFzc2V0X2FnZV9kYXlzIjoxNzMsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=ec57535626272f00&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80RDRBMkRGMjNFQzQ2QTA5RjU5MjM4Mzc5NTRENEY5N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IxNDM5NTAxQUVFNTdERjNBQUNENDYyNTdBNEVBMzhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbMhdjN77iLBRUCKAJDMywXQEdEOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFiRTsoqCUmSCnHYksQZhmF6pZILmvOKbXqlkgua84ptdlvsGRlMSDH_hfV6gZB52fVVn2hIAzpduZ_Wi6z0-o-&oh=00_AQIwy7KtTdngev2G1rYJEtcbxfiGxCatQKy4eukRDKkahw&oe=6AB0999B"
+        },
+        {
+          "file": "1175034838137660_0_video_sd.mp4",
+          "bytes": 1767624,
+          "status": "skip",
+          "type": "video_sd",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/o1/v/t2/f2/m412/AQPeQc_UqQs7LrN5qNUVA1v230d_p8DbMHcqSeL_A7R6Nlg2ed7da-NGYNcWEg60GaQYe-VhUzu3fFtGUHBGKPdAyZYT42i4nLnKHu9Gxg.mp4?_nc_cat=101&_nc_oc=Ado3uO4h759MAvsGN52AXuYB4lV_VXlhyhZtRYjrP-0QoP48Rfpz2uNUlfWLexELplY&_nc_sid=ef5aa3&_nc_ht=scontent.fcgh10-2.fna.fbcdn.net&_nc_ohc=GUDnf6AV49MQ7kNvwE9Yn3J&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQzMjU0MTE5MTY2ODA3MCwiYXNzZXRfYWdlX2RheXMiOjE3MywidmlfdXNlY2FzZV9pZCI6MTA3OTksImR1cmF0aW9uX3MiOjQ2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeF0FvJEqqIKJDggy0_Y7lCzgCF0FRiT_zSAIXQVGJP_NEMTcSEK1wAJJ5Nw5oyVcU7KZmDtfMOeLfZUowhDx-ot&oh=00_AQI-5kQcYI_luXTsEJToYkuteCuwLcmR5aAOpby_dbQCDQ&oe=6AB09091"
+        },
+        {
+          "file": "1175034838137660_0_video_preview.jpg",
+          "bytes": 270280,
+          "status": "skip",
+          "type": "video_preview",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.35426-6/707407170_1596178611451377_2543750474354399746_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeE8YBQh17jItaIFk45KFNzeVv3DVZtXai5W_cNVm1dqLtG2KsXiCv9DZVmWalk7LLkqKXppolI14HIx5-0pgPLM&_nc_ohc=vMyPyN5m-kQQ7kNvwEYpbD2&_nc_oc=Adr8df6M_hi8sFyiFOZUbJsAbkNxrlgGEKyZ6krUzIfv99-P1L0UmDcDeMUkl7St_qY&_nc_zt=14&_nc_ht=scontent.fcgh10-1.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQKkGzs4PqlEAe5diUh-LFW-VZByRr3RA7Y3EqlcF7jKOw&oe=6AB07C58"
+        }
+      ]
+    },
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "1054185060432533",
+      "isActive": true,
+      "startDate": "2026-08-17",
+      "endDate": "2026-09-16",
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "title": null,
+      "body": "MENSAIS DE R$ 500,00*\n2 dorms com condições do Minha Casa Minha Vida.  \n✅ Entrada facilitada  \n✅ Subsídio do Governo  \n✅ A poucos passos da Estação Sapopemba\n\nVISITE O DECORADO\n*Consulte condições no plantão de vendas",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Saiba mais",
+      "displayFormat": "VIDEO",
+      "cardsCount": 0,
+      "media": [
+        {
+          "file": "1054185060432533_0_video_hd.mp4",
+          "bytes": 12141645,
+          "status": "skip",
+          "type": "video_hd",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMW8BSeFQxBPnQuLWgH3rY1Nal73eIF7OCiYFyVlM6dfjv_IFoYoGSBdsAUifF7K30CrqZuSap1N3ASZE66f8dMaTmZDs0Fr9DHirJyIlhT3w.mp4?_nc_cat=101&_nc_oc=AdpYlwuoxag18dXJ26E7jzartUJxPn-AqqEdev5BV6wZMao4lzGf714PRZak3-opZRk&_nc_sid=b66105&_nc_ht=scontent.fcgh10-1.fna.fbcdn.net&_nc_ohc=8NJDcmzDcIAQ7kNvwFt1Qrb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NjUwNjUyMjc5Mjg4ODUsImFzc2V0X2FnZV9kYXlzIjoyOSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjQ3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b06fc9a94d2ddf95&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84QzRGOTA3NURFMzlCQzFCNzMwOEEzOEU2RjkyRjhCNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzk0NEVDNTk3RjdDQzI5MTFCMTRDQTkwOERFODlEMUE1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbqlILXxpf1BRUCKAJDMywXQEfmBBiTdLwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFirQU1gQYoXrL_JntyQb36hgdScEPZtKuGB1JwQ9m0q40chOH-5rl4wsRgtTV-Wyn5DBB7sduhVNGZMQZNHvxJ&oh=00_AQLHYQUeNt0bp97-NBzBvGWXSY3MF9Gt9MgBEy953bo6zQ&oe=6AB087AB"
+        },
+        {
+          "file": "1054185060432533_0_video_sd.mp4",
+          "bytes": 2275694,
+          "status": "skip",
+          "type": "video_sd",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/o1/v/t2/f2/m412/AQOQD61Z-pRZOHaTQVvm6RGNgFKF9bzKah34xcZ2_qmFcVbUgZ89VQ5RCdy5A-srQv0bRTO073NY6quoNple-z8Y6pkf5OOlH2KLIUt5Ww.mp4?_nc_cat=109&_nc_oc=Ador2iez6e733hzbP9EQ5Q_PYRFhyierszBAktD4cQ33dq7coE9YhRJYavCDcv_zdXA&_nc_sid=ef5aa3&_nc_ht=scontent.fcgh10-2.fna.fbcdn.net&_nc_ohc=bakqnclM29YQ7kNvwEg7WfR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTY2NTA2NTIyNzkyODg4NSwiYXNzZXRfYWdlX2RheXMiOjI5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGqvAW_xYKYmFDSL1A-AHNg1pk_Mw70TsjWmT8zDvROyJgIkni8z0XKJqLFu3tB0IFQ_UGniyEgqGIU3WiZ49-c&oh=00_AQJC3HQT8ZElbNLk3QWqANII6bGuusznmUglpncDikC8HA&oe=6AB07941"
+        },
+        {
+          "file": "1054185060432533_0_video_preview.jpg",
+          "bytes": 224058,
+          "status": "skip",
+          "type": "video_preview",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.35426-6/778628147_1465211945631268_449665561185970844_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeEFmp2NXIKjMxFnHOZ9Nq9rUT_mxHT1M4xRP-bEdPUzjG4pkSKlOtozm7Kacp-VvTJc9E9TRnpDV5WLqR-Pwc8u&_nc_ohc=hIToFtnanCMQ7kNvwGwsCrw&_nc_oc=AdpYSI0NsP1mEN4N26rE675AokUMpeKhhtnkk-FNmqB97q7tGPF8dc2z6AfW0E8P1zQ&_nc_zt=14&_nc_ht=scontent.fcgh10-1.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQKd3BVeuj6mkxCdnHVUO_CUWzU3_kv9eP6JVMufGBt29A&oe=6AB074F2"
+        }
+      ]
+    },
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "2961507904187920",
+      "isActive": true,
+      "startDate": "2026-08-17",
+      "endDate": "2026-09-16",
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "title": "VILA JACUÍ - OBRAS ACELERADAS",
+      "body": "No ponto mais alto da Vila Jacuí com CONDIÇÕES ESPECIAIS. Lazer completo e todas as unidades com vaga de garagem.\n\nFale com um especialista agora mesmo.",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Saiba mais",
+      "displayFormat": "VIDEO",
+      "cardsCount": 0,
+      "media": [
+        {
+          "file": "2961507904187920_0_video_hd.mp4",
+          "bytes": 9094776,
+          "status": "skip",
+          "type": "video_hd",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQPOzdp7Zo2RS4FWU3xQJxdjZwVAEJz3S1_Zr3F2kZ2bH8ptpHNUwRCLDa0a_dXE7KLsyLxAjVO4rIo4MM4Xa1OpHsjORr99QP44msiOx1X9mg.mp4?_nc_cat=103&_nc_oc=AdozUaE4aK6nasISSGZsFOQ7Rix7KbC6YMDmtqWarCuST0rPbV-dXW-Qp1m43Ck6z4U&_nc_sid=b66105&_nc_ht=scontent.fcgh10-2.fna.fbcdn.net&_nc_ohc=y658ikMUxncQ7kNvwFrDqKI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzNDkxODk2NDU2MTA3NDgsImFzc2V0X2FnZV9kYXlzIjoyOSwidmlfdXNlY2FzZV9pZCI6MTAxMzksImR1cmF0aW9uX3MiOjM5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=cbe29d50c322f42e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85ODQxRURGNTJEOEZCNEQzMDRGNEE4MThEQjZBMEM4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA0NEU4Qzg2MUREMjk2MEQ4RURBNjlBMDk1NkZBMUIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4u7Hl6qSsCBUCKAJDMywXQEOaPXCj1woYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHK_5Tz1tQrk-RQwhINhntQm95bqM5dINSb3luozl0g1JUhrohcfT_jTUN6T3mhZoohRXxGN_wRxfQWL0OCD1Eg&oh=00_AQLVddIrBNtCBSgtkpQcPKwyumfUkAqzKbgDkojPEcQJnw&oe=6AB08D21"
+        },
+        {
+          "file": "2961507904187920_0_video_sd.mp4",
+          "bytes": 1706268,
+          "status": "skip",
+          "type": "video_sd",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQMubDemu6FzHavyUybcaVMcYtxSmG8fgYq2YhmDuwweTUCrOTi9H6m7HRG_MtM-7ZCjvpychc4P7Ns79AEESYRzq49a8FmBU-heTso5MA.mp4?_nc_cat=103&_nc_oc=Adqkddjeg8dI8_payUOzIXmnFIRgoF0Hc9EaX36vYFnnSYvACGCOMw7AXv3RDlmwk2o&_nc_sid=ef5aa3&_nc_ht=scontent.fcgh10-1.fna.fbcdn.net&_nc_ohc=mq1ZZOAdPncQ7kNvwGWz2bN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MjM0OTE4OTY0NTYxMDc0OCwiYXNzZXRfYWdlX2RheXMiOjI5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeESBfosoAcPbHVODCXvSYUXGDqKSvgI1MIYOopK-AjUwhFSnqpSLa-OJssvlJS88PWbdVOw5QjoSmDQIyyOm2BF&oh=00_AQL4zWau576lEaE-xW23B59HxsEMwto9PIqthKP7E8PeVw&oe=6AB083EB"
+        },
+        {
+          "file": "2961507904187920_0_video_preview.jpg",
+          "bytes": 335225,
+          "status": "skip",
+          "type": "video_preview",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/775398943_1079573847933705_1165567241101417450_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeE_KHqc_CIeLLfEFxyRNzxIPL0LYXuQXQg8vQthe5BdCG6fgmy8WhOtsAI_r3dnzADxN9dRgcBzhCRYGmdTMG2d&_nc_ohc=uuw4tmugv9YQ7kNvwFScYYq&_nc_oc=AdqvRqu48ojxoUzO0lWVKrYKkZwyzT7EEZeMDuVB5x_zNr37kb4sOhnngdBWbIUj2xM&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQKZJMBv2lST1R8H_NFoeksbbLLtfDtWZZWlQ43n0gRmKg&oe=6AB087DF"
+        }
+      ]
+    },
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "1397369869201745",
+      "isActive": true,
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-16",
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "title": "Camélia Parque das Flores",
+      "body": "Vem aí o Condomínio Camélia Parque das Flores!\n\nO 4º lançamento do Parque das Flores, o maior bairro planejado da Zona Leste, desenvolvido pela Jalico, está chegando ao Parque Dom João Nery.\n\n- 2 dormitórios com varanda\n- Lazer de clube com piscina\n- Entrada facilitada\n- Junte sua renda com até 3 pessoas\n- Use seu FGTS\n- Motorista de app? Financie pela Caixa\n- Programa Minha Casa, Minha Vida\n\nUm novo jeito de viver entre Guaianases e Itaim Paulista, em um bairro planejado para você e sua família.\n\nAgende sua visita e saiba mais!",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Saiba mais",
+      "displayFormat": "DCO",
+      "cardsCount": 2,
+      "media": [
+        {
+          "file": "1397369869201745_card1_card_image.png",
+          "bytes": 1486657,
+          "status": "skip",
+          "type": "card_image",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/783375018_888735747437347_2494000078458140360_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeHSnD93R2C6KOjc9DhT2xJNl8nmwXL8ojCXyebBcvyiMMyCVKw6TFm9JKiUnTCpB4fVfyGj2wZdbYejxonxcs4S&_nc_ohc=rkijPtG6qxkQ7kNvwFTWT0P&_nc_oc=AdqrLif-7XqZ7I7vpvsJgkelEcVS1Dl3xBhqz8JWHe66i_DgvHR-vbRRfbAc4ofMpIk&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQLbmXyDHAxXM5revXj_PV0J6F6VYQnimZhGaCwL_AC70Q&oe=6AB07A1C"
+        }
+      ],
+      "cards": [
+        {
+          "title": "Camélia Parque das Flores",
+          "body": "Vem aí o Condomínio Camélia Parque das Flores!\n\nO 4º lançamento do Parque das Flores, o maior bairro planejado da Zona Leste, desenvolvido pela Jalico, está chegando ao Parque Dom João Nery.\n\n- 2 dormitórios com varanda\n- Lazer de clube com piscina\n- Entrada facilitada\n- Junte sua renda com até 3 pessoas\n- Use seu FGTS\n- Motorista de app? Financie pela Caixa\n- Programa Minha Casa, Minha Vida\n\nUm novo jeito de viver entre Guaianases e Itaim Paulista, em um bairro planejado para você e sua família.\n\nAgende sua visita e saiba mais!",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": ""
+        },
+        {
+          "title": "Camélia Parque das Flores",
+          "body": "Vem aí o Condomínio Camélia Parque das Flores!\n\nO 4º lançamento do Parque das Flores, o maior bairro planejado da Zona Leste, desenvolvido pela Jalico, está chegando ao Parque Dom João Nery.\n\n- 2 dormitórios com varanda\n- Lazer de clube com piscina\n- Entrada facilitada\n- Junte sua renda com até 3 pessoas\n- Use seu FGTS\n- Motorista de app? Financie pela Caixa\n- Programa Minha Casa, Minha Vida\n\nUm novo jeito de viver entre Guaianases e Itaim Paulista, em um bairro planejado para você e sua família.\n\nAgende sua visita e saiba mais!",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/783375018_888735747437347_2494000078458140360_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeHSnD93R2C6KOjc9DhT2xJNl8nmwXL8ojCXyebBcvyiMMyCVKw6TFm9JKiUnTCpB4fVfyGj2wZdbYejxonxcs4S&_nc_ohc=rkijPtG6qxkQ7kNvwFTWT0P&_nc_oc=AdqrLif-7XqZ7I7vpvsJgkelEcVS1Dl3xBhqz8JWHe66i_DgvHR-vbRRfbAc4ofMpIk&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQLbmXyDHAxXM5revXj_PV0J6F6VYQnimZhGaCwL_AC70Q&oe=6AB07A1C"
+        }
+      ]
+    },
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "1800415974736294",
+      "isActive": true,
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-15",
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "title": "Camélia Parque das Flores",
+      "body": "Vem aí o Condomínio Camélia Parque das Flores!\n\nO 4º lançamento do Parque das Flores, o maior bairro planejado da Zona Leste, desenvolvido pela Jalico, está chegando ao Parque Dom João Nery.\n\n- 2 dormitórios com varanda\n- Lazer de clube com piscina\n- Entrada facilitada\n- Junte sua renda com até 3 pessoas\n- Use seu FGTS\n- Motorista de app? Financie pela Caixa\n- Programa Minha Casa, Minha Vida\n\nUm novo jeito de viver entre Guaianases e Itaim Paulista, em um bairro planejado para você e sua família.\n\nAgende sua visita e saiba mais!",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Saiba mais",
+      "displayFormat": "DCO",
+      "cardsCount": 2,
+      "media": [
+        {
+          "file": "1800415974736294_card0_card_image.png",
+          "bytes": 1765907,
+          "status": "skip",
+          "type": "card_image",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.35426-6/791563837_1049320554546872_4404928625201145822_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeEywNHiitR8Qzij53kThnVe0A3T7n1-f3XQDdPufX5_dZJV60dwCEfwLIxXb-lPnN6ND_Nhmsh0DsJlOHeWcIyr&_nc_ohc=qsJmofLvEU4Q7kNvwEmIgDS&_nc_oc=AdqTgZECj_1KX1lx0R5_Sk46ahhLb6W1UbNZNlfg2mTbwtkucewwIEk-B6sNnBoI2wA&_nc_zt=14&_nc_ht=scontent.fcgh10-1.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQJs7CLA1T8INqBhO_K1jTvOzHqqoQU8mgtwmHWsgY-yRw&oe=6AB06A62"
+        },
+        {
+          "file": "1800415974736294_card1_card_image.png",
+          "bytes": 1490195,
+          "status": "skip",
+          "type": "card_image",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/790505886_1417831323609114_967743825635206850_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeE6wU89hKbiU3pohfOXo_sy8ZgKdR4k3D7xmAp1HiTcPtYl9dJ0Gzg0OAKok-xQPugU3fZTiaJhPasHBDscez8F&_nc_ohc=WhSEXg5xAfIQ7kNvwHNFk87&_nc_oc=AdpCpzSXhe83w7pOSmalG00PJI-ikdhDmVw69SR-0vY4TysGfLaa--ni1FwUvAeBNYQ&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQJ4Os3YPlOGZLEIbUzOSY3gBVte2R-SbOZSMYfHZGEajw&oe=6AB08A9C"
+        }
+      ],
+      "cards": [
+        {
+          "title": "Camélia Parque das Flores",
+          "body": "Vem aí o Condomínio Camélia Parque das Flores!\n\nO 4º lançamento do Parque das Flores, o maior bairro planejado da Zona Leste, desenvolvido pela Jalico, está chegando ao Parque Dom João Nery.\n\n- 2 dormitórios com varanda\n- Lazer de clube com piscina\n- Entrada facilitada\n- Junte sua renda com até 3 pessoas\n- Use seu FGTS\n- Motorista de app? Financie pela Caixa\n- Programa Minha Casa, Minha Vida\n\nUm novo jeito de viver entre Guaianases e Itaim Paulista, em um bairro planejado para você e sua família.\n\nAgende sua visita e saiba mais!",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": "https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.35426-6/791563837_1049320554546872_4404928625201145822_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeEywNHiitR8Qzij53kThnVe0A3T7n1-f3XQDdPufX5_dZJV60dwCEfwLIxXb-lPnN6ND_Nhmsh0DsJlOHeWcIyr&_nc_ohc=qsJmofLvEU4Q7kNvwEmIgDS&_nc_oc=AdqTgZECj_1KX1lx0R5_Sk46ahhLb6W1UbNZNlfg2mTbwtkucewwIEk-B6sNnBoI2wA&_nc_zt=14&_nc_ht=scontent.fcgh10-1.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQJs7CLA1T8INqBhO_K1jTvOzHqqoQU8mgtwmHWsgY-yRw&oe=6AB06A62"
+        },
+        {
+          "title": "Camélia Parque das Flores",
+          "body": "Vem aí o Condomínio Camélia Parque das Flores!\n\nO 4º lançamento do Parque das Flores, o maior bairro planejado da Zona Leste, desenvolvido pela Jalico, está chegando ao Parque Dom João Nery.\n\n- 2 dormitórios com varanda\n- Lazer de clube com piscina\n- Entrada facilitada\n- Junte sua renda com até 3 pessoas\n- Use seu FGTS\n- Motorista de app? Financie pela Caixa\n- Programa Minha Casa, Minha Vida\n\nUm novo jeito de viver entre Guaianases e Itaim Paulista, em um bairro planejado para você e sua família.\n\nAgende sua visita e saiba mais!",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/790505886_1417831323609114_967743825635206850_n.jpg?_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeE6wU89hKbiU3pohfOXo_sy8ZgKdR4k3D7xmAp1HiTcPtYl9dJ0Gzg0OAKok-xQPugU3fZTiaJhPasHBDscez8F&_nc_ohc=WhSEXg5xAfIQ7kNvwHNFk87&_nc_oc=AdpCpzSXhe83w7pOSmalG00PJI-ikdhDmVw69SR-0vY4TysGfLaa--ni1FwUvAeBNYQ&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQJ4Os3YPlOGZLEIbUzOSY3gBVte2R-SbOZSMYfHZGEajw&oe=6AB08A9C"
+        }
+      ]
+    },
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "2500010313811584",
+      "isActive": true,
+      "startDate": "2026-09-10",
+      "endDate": "2026-09-16",
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "title": "Camélia Parque das Flores",
+      "body": "Vem aí o Condomínio Camélia Parque das Flores!\n\nO 4º lançamento do Parque das Flores, o maior bairro planejado da Zona Leste, desenvolvido pela Jalico, está chegando ao Parque Dom João Nery.\n\n- 2 dormitórios com varanda\n- Lazer de clube com piscina\n- Entrada facilitada\n- Junte sua renda com até 3 pessoas\n- Use seu FGTS\n- Motorista de app? Financie pela Caixa\n- Programa Minha Casa, Minha Vida\n\nUm novo jeito de viver entre Guaianases e Itaim Paulista, em um bairro planejado para você e sua família.\n\nAgende sua visita e saiba mais!",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Saiba mais",
+      "displayFormat": "DCO",
+      "cardsCount": 2,
+      "media": [
+        {
+          "file": "2500010313811584_card0_card_image.png",
+          "bytes": 1553431,
+          "status": "skip",
+          "type": "card_image",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/798182134_933196799336469_210880231548941578_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeErlzTB1QW_0pMwn-b7NJIB_Bx-GUqogqb8HH4ZSqiCptNnxn7MWCPMp37m2KouS8eZoVsJdg_UYu4OKP_0R5s8&_nc_ohc=iIjzjiPsXXEQ7kNvwHGt_-n&_nc_oc=Adoj157bTtc369YIQOX89Ga4MO6fn9h-E8QZKWDfxu-4Qn7RQuMz8vsWW9cSR2Lc9dw&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQL1mHipTekzo55ROiQk_WCBnPmaXn4-P81RKSNFj-bysg&oe=6AB07035"
+        },
+        {
+          "file": "2500010313811584_card1_card_image.png",
+          "bytes": 1344383,
+          "status": "skip",
+          "type": "card_image",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/804445634_917547794363492_2442202129662312952_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeHGbATcXCyYz32tOYU_Y45ej1aHbsoBP1SPVoduygE_VLfGYICA-UW9vDSfh4Al_ofWvvQ9JuIJ68Kzl5cD5L-v&_nc_ohc=5KnnkFdyayoQ7kNvwGb2O8x&_nc_oc=AdrWtTFKh7m37lU7pn0sbpQliaNOyMkjsY4MnK8C2xtJsrXX9dTViMpyvu_X-9pIMOI&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQJvnwwlU4a-A1aimSgG_hYotc55E1BeC6TR1lu784RERA&oe=6AB0694D"
+        }
+      ],
+      "cards": [
+        {
+          "title": "Camélia Parque das Flores",
+          "body": "Vem aí o Condomínio Camélia Parque das Flores!\n\nO 4º lançamento do Parque das Flores, o maior bairro planejado da Zona Leste, desenvolvido pela Jalico, está chegando ao Parque Dom João Nery.\n\n- 2 dormitórios com varanda\n- Lazer de clube com piscina\n- Entrada facilitada\n- Junte sua renda com até 3 pessoas\n- Use seu FGTS\n- Motorista de app? Financie pela Caixa\n- Programa Minha Casa, Minha Vida\n\nUm novo jeito de viver entre Guaianases e Itaim Paulista, em um bairro planejado para você e sua família.\n\nAgende sua visita e saiba mais!",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/798182134_933196799336469_210880231548941578_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeErlzTB1QW_0pMwn-b7NJIB_Bx-GUqogqb8HH4ZSqiCptNnxn7MWCPMp37m2KouS8eZoVsJdg_UYu4OKP_0R5s8&_nc_ohc=iIjzjiPsXXEQ7kNvwHGt_-n&_nc_oc=Adoj157bTtc369YIQOX89Ga4MO6fn9h-E8QZKWDfxu-4Qn7RQuMz8vsWW9cSR2Lc9dw&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQL1mHipTekzo55ROiQk_WCBnPmaXn4-P81RKSNFj-bysg&oe=6AB07035"
+        },
+        {
+          "title": "Camélia Parque das Flores",
+          "body": "Vem aí o Condomínio Camélia Parque das Flores!\n\nO 4º lançamento do Parque das Flores, o maior bairro planejado da Zona Leste, desenvolvido pela Jalico, está chegando ao Parque Dom João Nery.\n\n- 2 dormitórios com varanda\n- Lazer de clube com piscina\n- Entrada facilitada\n- Junte sua renda com até 3 pessoas\n- Use seu FGTS\n- Motorista de app? Financie pela Caixa\n- Programa Minha Casa, Minha Vida\n\nUm novo jeito de viver entre Guaianases e Itaim Paulista, em um bairro planejado para você e sua família.\n\nAgende sua visita e saiba mais!",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/804445634_917547794363492_2442202129662312952_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeHGbATcXCyYz32tOYU_Y45ej1aHbsoBP1SPVoduygE_VLfGYICA-UW9vDSfh4Al_ofWvvQ9JuIJ68Kzl5cD5L-v&_nc_ohc=5KnnkFdyayoQ7kNvwGb2O8x&_nc_oc=AdrWtTFKh7m37lU7pn0sbpQliaNOyMkjsY4MnK8C2xtJsrXX9dTViMpyvu_X-9pIMOI&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQJvnwwlU4a-A1aimSgG_hYotc55E1BeC6TR1lu784RERA&oe=6AB0694D"
+        }
+      ]
+    },
+    {
+      "advertiser": "Jalico Empreendimentos",
+      "pageId": "1604961216250601",
+      "libraryId": "1086783287041581",
+      "isActive": true,
+      "startDate": "2026-09-10",
+      "endDate": "2026-09-16",
+      "platforms": [
+        "FACEBOOK",
+        "INSTAGRAM"
+      ],
+      "title": "Camélia Parque das Flores",
+      "body": "Vem aí o Condomínio Camélia Parque das Flores!\n\nO 4º lançamento do Parque das Flores, o maior bairro planejado da Zona Leste, desenvolvido pela Jalico, está chegando ao Parque Dom João Nery.\n\n- 2 dormitórios com varanda\n- Lazer de clube com piscina\n- Entrada facilitada\n- Junte sua renda com até 3 pessoas\n- Use seu FGTS\n- Motorista de app? Financie pela Caixa\n- Programa Minha Casa, Minha Vida\n\nUm novo jeito de viver entre Guaianases e Itaim Paulista, em um bairro planejado para você e sua família.\n\nAgende sua visita e saiba mais!",
+      "caption": "fb.me",
+      "linkUrl": "http://fb.me/",
+      "ctaText": "Saiba mais",
+      "displayFormat": "DCO",
+      "cardsCount": 2,
+      "media": [
+        {
+          "file": "1086783287041581_card0_card_image.png",
+          "bytes": 842889,
+          "status": "skip",
+          "type": "card_image",
+          "url": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/802642131_1480432500587528_8310401994866687951_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeE2YBZkX82xLn_8HQ2GY9DOMyAjJKg3aBszICMkqDdoG0tQRup1x0MEz0bDW-99DkaM0DYpBsvyUszdYYusXkYv&_nc_ohc=vrFqBhwhJMQQ7kNvwEcYKW0&_nc_oc=AdpFOaaRPzIiFHKacR3nzc0XWZTvk8PeVWEEHH7bl0ilS2JhT3EGkLwxVwiibUdmswQ&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQIxCwTsIH_H_dFWbPBuRuhenU0EyGz1eTOA13MckAMAxw&oe=6AB07292"
+        },
+        {
+          "file": "1086783287041581_card1_card_image.png",
+          "bytes": 709880,
+          "status": "skip",
+          "type": "card_image",
+          "url": "https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.35426-6/802680809_1486760563479340_9107581906027027415_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeElpoTOhOduEj7_WNIHD9EDynIBpg34o5LKcgGmDfijkpNrBvTOEfAGFiKz_oXoPD5vJ0_0Mg_qfnDZyvw8ILBu&_nc_ohc=VYamqWv5rUcQ7kNvwF60YGB&_nc_oc=AdpzyXnNJJ42rSBQLIbXMAnA2EG2n1foTLVstQrgt2NXK1vilPvlQgX41rpf5FRroYw&_nc_zt=14&_nc_ht=scontent.fcgh10-1.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQIZZJ0MjT_05uP4ccktqNVQ7NpfZplhQlSi_6hkk3iP3w&oe=6AB06201"
+        }
+      ],
+      "cards": [
+        {
+          "title": "Camélia Parque das Flores",
+          "body": "Vem aí o Condomínio Camélia Parque das Flores!\n\nO 4º lançamento do Parque das Flores, o maior bairro planejado da Zona Leste, desenvolvido pela Jalico, está chegando ao Parque Dom João Nery.\n\n- 2 dormitórios com varanda\n- Lazer de clube com piscina\n- Entrada facilitada\n- Junte sua renda com até 3 pessoas\n- Use seu FGTS\n- Motorista de app? Financie pela Caixa\n- Programa Minha Casa, Minha Vida\n\nUm novo jeito de viver entre Guaianases e Itaim Paulista, em um bairro planejado para você e sua família.\n\nAgende sua visita e saiba mais!",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": "https://scontent.fcgh10-2.fna.fbcdn.net/v/t39.35426-6/802642131_1480432500587528_8310401994866687951_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeE2YBZkX82xLn_8HQ2GY9DOMyAjJKg3aBszICMkqDdoG0tQRup1x0MEz0bDW-99DkaM0DYpBsvyUszdYYusXkYv&_nc_ohc=vrFqBhwhJMQQ7kNvwEcYKW0&_nc_oc=AdpFOaaRPzIiFHKacR3nzc0XWZTvk8PeVWEEHH7bl0ilS2JhT3EGkLwxVwiibUdmswQ&_nc_zt=14&_nc_ht=scontent.fcgh10-2.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQIxCwTsIH_H_dFWbPBuRuhenU0EyGz1eTOA13MckAMAxw&oe=6AB07292"
+        },
+        {
+          "title": "Camélia Parque das Flores",
+          "body": "Vem aí o Condomínio Camélia Parque das Flores!\n\nO 4º lançamento do Parque das Flores, o maior bairro planejado da Zona Leste, desenvolvido pela Jalico, está chegando ao Parque Dom João Nery.\n\n- 2 dormitórios com varanda\n- Lazer de clube com piscina\n- Entrada facilitada\n- Junte sua renda com até 3 pessoas\n- Use seu FGTS\n- Motorista de app? Financie pela Caixa\n- Programa Minha Casa, Minha Vida\n\nUm novo jeito de viver entre Guaianases e Itaim Paulista, em um bairro planejado para você e sua família.\n\nAgende sua visita e saiba mais!",
+          "linkUrl": "http://fb.me/",
+          "ctaText": "Learn More",
+          "originalImage": "https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.35426-6/802680809_1486760563479340_9107581906027027415_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeElpoTOhOduEj7_WNIHD9EDynIBpg34o5LKcgGmDfijkpNrBvTOEfAGFiKz_oXoPD5vJ0_0Mg_qfnDZyvw8ILBu&_nc_ohc=VYamqWv5rUcQ7kNvwF60YGB&_nc_oc=AdpzyXnNJJ42rSBQLIbXMAnA2EG2n1foTLVstQrgt2NXK1vilPvlQgX41rpf5FRroYw&_nc_zt=14&_nc_ht=scontent.fcgh10-1.fna&_nc_gid=rQ5WY3-jiw7f_fyRcaMBmA&_nc_ss=7b2a8&oh=00_AQIZZJ0MjT_05uP4ccktqNVQ7NpfZplhQlSi_6hkk3iP3w&oe=6AB06201"
+        }
+      ]
+    }
+  ]
+}

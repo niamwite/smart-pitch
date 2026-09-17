@@ -1,0 +1,17 @@
+# PDFs com dados sensíveis — fora do repo público
+*.pdf
+
+# Mídia pesada (GBs) — fica local
+**/media/
+concorrentes/comparativo/
+smart_ads/
+
+# HTMLs crus da coleta
+concorrentes/data/pages/
+concorrentes/data/*.html
+
+# Galeria precisa da mídia local — fora do site
+concorrentes/COMPARATIVO.html
+
+# Arquivos do gerador (uso interno)
+# /tmp/opencode (fora do repo)

@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<title>Smart x Concorrentes — Apresentação executiva</title>
+<style>
+:root{--bg:#f4f6fb;--card:#ffffff;--ink:#0f172a;--mut:#5b6472;--line:#e4e8f0;--ind:#4f46e5;--mag:#db2777;--grn:#059669;--amb:#d97706;--red:#dc2626;--dark:#0b1020}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;line-height:1.55}
+.wrap{max-width:1180px;margin:0 auto;padding:28px 24px 64px}
+.cover{background:radial-gradient(1000px 380px at 15% 0%,rgba(79,70,229,.45),transparent),radial-gradient(800px 360px at 90% 20%,rgba(219,39,119,.38),transparent),linear-gradient(135deg,#0b1020,#1d1b4b 55%,#3b0764);color:#fff;border-radius:24px;padding:48px 42px;position:relative;overflow:hidden}
+.eyebrow{display:inline-block;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.25);padding:6px 12px;border-radius:999px;font-size:12px;letter-spacing:.08em;text-transform:uppercase}
+.cover h1{font-size:46px;line-height:1.05;margin:16px 0 10px}
+.cover p{margin:0;max-width:760px;color:#e8eaf6;font-size:17px}
+.chips{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}
+.chip{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.22);border-radius:999px;padding:8px 14px;font-size:13px}
+.nav{position:sticky;top:0;z-index:5;background:rgba(244,246,251,.9);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.nav div{max-width:1180px;margin:0 auto;padding:10px 24px;display:flex;gap:14px;flex-wrap:wrap;font-size:13px}
+.nav a{color:var(--ink);text-decoration:none;font-weight:600}
+.grid{display:grid;gap:16px}
+.kpis{grid-template-columns:repeat(auto-fit,minmax(180px,1fr));margin:22px 0}
+.kpi{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px;box-shadow:0 8px 24px rgba(15,23,42,.06)}
+.kpi small{color:var(--mut);font-size:12px;text-transform:uppercase;letter-spacing:.06em}
+.kpi b{display:block;font-size:34px;margin:4px 0}
+.kpi span{color:var(--mut);font-size:13px}
+section{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:30px;margin:20px 0;box-shadow:0 10px 30px rgba(15,23,42,.05)}
+h2{font-size:26px;margin:0 0 6px}
+.sub{color:var(--mut);margin:0 0 18px}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{padding:10px 12px;border-bottom:1px solid var(--line);text-align:left;vertical-align:middle}
+th{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--mut)}
+td.n{font-variant-numeric:tabular-nums;white-space:nowrap}
+.bar{height:22px;background:#eef1f7;border-radius:999px;overflow:hidden;position:relative;min-width:120px}
+.bar i{display:block;height:100%}
+.bar b{position:absolute;right:10px;top:0;line-height:22px;font-size:12px;color:#111}
+.big{display:grid;grid-template-columns:1fr;gap:10px;margin-top:14px}
+.bigrow{display:grid;grid-template-columns:230px 1fr 120px;gap:12px;align-items:center;font-size:14px}
+.bigrow .who{font-weight:700}
+.bigrow .mult{color:var(--mut);font-variant-numeric:tabular-nums}
+.smartrow .who{color:var(--mag)}
+.note{background:#f8fafc;border:1px dashed #cbd5e1;border-radius:14px;padding:12px 14px;font-size:13px;color:#334155}
+.cols2{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px}
+.callout{border-radius:16px;padding:18px;color:#fff}
+.c1{background:linear-gradient(135deg,#4f46e5,#7c3aed)}
+.c2{background:linear-gradient(135deg,#059669,#0d9488)}
+.c3{background:linear-gradient(135deg,#db2777,#f43f5e)}
+.ask{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px}
+.ask div{border:1px solid var(--line);border-radius:16px;padding:18px;background:#fff}
+ul{margin:10px 0;padding-left:20px}li{margin:6px 0}
+footer{color:var(--mut);font-size:12px;text-align:center;margin-top:26px}
+@page{size:A4;margin:11mm}
+@media print{.nav{display:none}body{background:#fff}.wrap{padding:0}header.cover{border-radius:14px}section,.kpi,.ask div{box-shadow:none}thead{display:table-header-group}tr{break-inside:avoid}h2{break-after:avoid}.bar i,.callout{-webkit-print-color-adjust:exact;print-color-adjust:exact}}
+</style>
+</head>
+<body>
+<div class="nav"><div>
+<a href="#placar">Placar</a><a href="#pressao">Pressão</a><a href="#territorio">Território</a><a href="#formato">Formato</a><a href="#bk">Método BK</a><a href="#custo">Custo</a><a href="#pedido">Pedido</a><a href="#anexos">Anexos</a><span style="opacity:.35">|</span><a href="../PITCH_WIL.html">Proposta Wil</a><a href="RELATORIO.html">Relatório</a>
+</div></div>
+<div class="wrap">
+<header class="cover">
+<span class="eyebrow">Inteligência competitiva · Meta Ad Library</span>
+<h1>A Smart está invisível no leilão.</h1>
+<p>Os concorrentes não estão apenas anunciando mais: estão ocupando o bairro, o formato e o funil. Esta apresentação mostra o tamanho do gap, o custo da invisibilidade e o pedido mínimo para voltar ao jogo.</p>
+<div class="chips">
+<span class="chip">2.320 anúncios mapeados</span>
+<span class="chip">17 concorrentes + Smart</span>
+<span class="chip">Smart: 11 ativos</span>
+<span class="chip">Voz ativa da Smart: 0,49%</span>
+<span class="chip">Corte: 16/09/2026 · BR</span>
+</div>
+</header>
+
+<div class="grid kpis">
+<div class="kpi"><small>Smart · anúncios ativos</small><b>11</b><span>5 vídeo · 6 DCO</span></div>
+<div class="kpi"><small>Mediana dos concorrentes</small><b>28 ativos</b><span>a Smart está abaixo da mediana</span></div>
+<div class="kpi"><small>Líder · Direcional</small><b>930 ativos</b><span>84,5× a Smart</span></div>
+<div class="kpi"><small>Novos anúncios · 30 dias</small><b>1.246 × 11</b><span>mercado contra Smart</span></div>
+</div>
+
+<section id="placar">
+<h2>1 · O placar: quantos anúncios cada um tem</h2>
+<p class="sub">Anúncios ativos por anunciante. A barra mostra a distância para o líder; a coluna “× Smart” mostra quantas vezes cada concorrente tem mais inventário ativo.</p>
+<table>
+<thead><tr><th>Anunciante</th><th>Ativos</th><th>× Smart</th></tr></thead>
+<tbody>
+<tr class="smartrow"><td class="who">Smart (você)</td><td class="n">11</td><td class="mult">1,0×</td></tr>
+<tr><td>Direcional Engenharia</td><td class="n">930</td><td class="mult">84,5×</td></tr>
+<tr><td>MRV</td><td class="n">423</td><td class="mult">38,5×</td></tr>
+<tr><td>Construtora Metrocasa</td><td class="n">198</td><td class="mult">18,0×</td></tr>
+<tr><td>Canopus Construções</td><td class="n">160</td><td class="mult">14,5×</td></tr>
+<tr><td>Construtora Tenda</td><td class="n">144</td><td class="mult">13,1×</td></tr>
+<tr><td>Vinx Construtora</td><td class="n">122</td><td class="mult">11,1×</td></tr>
+<tr><td>Livus Incorporadora</td><td class="n">108</td><td class="mult">9,8×</td></tr>
+<tr><td>FORZA Construtora</td><td class="n">66</td><td class="mult">6,0×</td></tr>
+</tbody>
+</table>
+<div class="big">
+<div class="bigrow"><span class="who">Direcional Engenharia</span><span class="bar"><i style="width:100%;background:#dc2626"></i><b>930</b></span><span class="mult">84,5×</span></div>
+<div class="bigrow"><span class="who">MRV</span><span class="bar"><i style="width:45.5%;background:#f97316"></i><b>423</b></span><span class="mult">38,5×</span></div>
+<div class="bigrow"><span class="who">Construtora Metrocasa</span><span class="bar"><i style="width:21.3%;background:#f59e0b"></i><b>198</b></span><span class="mult">18,0×</span></div>
+<div class="bigrow"><span class="who">Canopus Construções</span><span class="bar"><i style="width:17.2%;background:#f59e0b"></i><b>160</b></span><span class="mult">14,5×</span></div>
+<div class="bigrow"><span class="who">Construtora Tenda</span><span class="bar"><i style="width:15.5%;background:#f59e0b"></i><b>144</b></span><span class="mult">13,1×</span></div>
+<div class="bigrow smartrow"><span class="who">Smart (você)</span><span class="bar"><i style="width:1.2%;background:#db2777"></i><b>11</b></span><span class="mult">1,0×</span></div>
+</div>
+<div class="note">Leitura direta: para cada anúncio ativo da Smart, o líder mantém 84,5 no ar. Isso não prova verba, mas prova presença: mais testes, mais ângulos, mais chances de vencer o leilão.</div>
+</section>
+
+<section id="pressao">
+<h2>2 · Quão concorrido está</h2>
+<div class="grid kpis">
+<div class="kpi"><small>Ativos dos concorrentes</small><b>2.243</b><span>contra 11 da Smart</span></div>
+<div class="kpi"><small>Novos starts · 90 dias</small><b>1.936</b><span>Smart: 11</span></div>
+<div class="kpi"><small>Anunciantes em metrô/zona leste</small><b>10 de 17</b><span>em cada território</span></div>
+<div class="kpi"><small>Anunciantes na Patriarca</small><b>7 de 17</b><span>seu núcleo mais disputado</span></div>
+</div>
+<p>O mercado opera como fábrica de criativos: Direcional com 930 ativos, MRV com 423, Metrocasa com 198. A Smart compete com 11 peças. Em leilão disputado, volume relevante não é luxo: é pré-requisito para aprender rápido.</p>
+</section>
+
+<section id="territorio">
+<h2>3 · Território: onde a briga acontece</h2>
+<p class="sub">Menções nos textos dos anúncios dos concorrentes. A Smart cobre metrô, Patriarca, Zona Leste, São Paulo e Guarulhos.</p>
+<table>
+<thead><tr><th>Território</th><th>Menções em anúncios</th></tr></thead>
+<tbody>
+<tr><td>Metrô/metro</td><td class="n">261</td></tr>
+<tr><td>Zona Leste</td><td class="n">79</td></tr>
+<tr><td>São Paulo</td><td class="n">70</td></tr>
+<tr><td>Patriarca</td><td class="n">63</td></tr>
+<tr><td>Mooca</td><td class="n">50</td></tr>
+<tr><td>Bresser</td><td class="n">49</td></tr>
+<tr><td>Tatuapé</td><td class="n">29</td></tr>
+<tr><td>Belém</td><td class="n">25</td></tr>
+</tbody>
+</table>
+<p><strong>Gaps fora do seu copy:</strong> Mooca, Bresser, Tatuapé, Belém, Itaquera, Sapopemba, Carrão, São Mateus, Penha e Itaim Paulista. Guarulhos quase não aparece nos concorrentes mapeados: valide se é uma frente real antes de escalar.</p>
+</section>
+
+<section id="formato">
+<h2>4 · Formato e funil: o mercado joga diferente</h2>
+<div class="cols2">
+<div>
+<h3>Mercado · 2.309 anúncios</h3>
+<p>DCO 56,8% · vídeo 28,7% · imagem 8,2% · carrossel 6,2%. CTA líder: “Saiba mais” 35,7% e “Cadastre-se” 33,7%; WhatsApp direto só 15,3%.</p>
+</div>
+<div>
+<h3>Smart · 11 anúncios</h3>
+<p>DCO 54,5% · vídeo 45,5%. CTA 100% WhatsApp direto. O funil é mais curto, mas o volume é mínimo: 6 DCO contra 1.312 do mercado.</p>
+</div>
+</div>
+<div class="note">Tradução executiva: o mercado captura cadastro e trabalha o lead; a Smart pula direto para conversa. Isso pode converter bem com resposta rápida, mas sem volume não há estatística.</div>
+</section>
+
+<section id="bk">
+<h2>5 · Método Burger King: replicar o que funciona, ocupar o vazio</h2>
+<p class="sub">O McDonald's paga a pesquisa; o BK abre ao lado. Aqui os rivais já pagaram o aprendizado em 2.309 anúncios. O que eles repetem em escala é mapa do que funciona.</p>
+<div class="cols2">
+<div>
+<h3>REPLICAR — padrões vencedores por repetição</h3>
+<ul>
+<li><strong>Âncora de preço “a partir de R$”</strong> — 267 anúncios. Entrada/parcela de entrada é o gatilho do segmento.</li>
+<li><strong>Lazer completo + varanda + 2 dorm</strong> — 307 / 211 / 204 menções. O trio que vende planta na Zona Leste.</li>
+<li><strong>“Sair do aluguel”</strong> — 132 anúncios. O apelo emocional dominante.</li>
+<li><strong>Financiamento + FGTS + MCMV</strong> — 152 / 56 / 111. Reduzir fricção de crédito no copy.</li>
+<li><strong>Distância do metrô em metros</strong> — 35 anúncios (“X m do metrô”). A Smart já faz (“70 m”) — manter e escalar.</li>
+<li><strong>DCO e vídeo vertical em volume</strong> — 56,8% DCO, 28,7% vídeo. Catálogo + tour, não peça única.</li>
+</ul>
+</div>
+<div>
+<h3>EXPLORAR — o que quase ninguém faz</h3>
+<ul>
+<li><strong>Guarulhos</strong> — só 3 anúncios rivais (Lumière). Território aberto no seu copy.</li>
+<li><strong>WhatsApp direto</strong> — só 15,3% dos rivais; a Smart já é 100%. É diferencial, não defeito.</li>
+<li><strong>Carrossel de planta/preço</strong> — a Smart tem zero; rivais somam 144. Catálogo vende comparação.</li>
+<li><strong>Bairros adjacentes</strong> — Itaquera, Sapopemba, Carrão e Penha somados têm menos menções que Mooca sozinha.</li>
+</ul>
+</div>
+</div>
+<div class="note">Caveat honesto: repetição em escala indica aposta vencedora, não prova conversão — a Biblioteca não publica performance dos rivais. Valide cada padrão em teste A/B barato antes de escalar.</div>
+</section>
+
+<section id="custo">
+<h2>6 · Custo da invisibilidade</h2>
+<p><strong>Regra honesta:</strong> a Biblioteca de Anúncios não publica verba de mídia para estes anúncios. Então não invento o budget do concorrente. O que os dados provam é pressão: 2.243 ativos, 1.246 novos em 30 dias e 7 rivais diretos na Patriarca.</p>
+<h3>Funil real Smart — 3 meses (15/06 a 15/09/2026)</h3>
+<p><strong>Verba:</strong> R$33.512,25 (≈R$11,2 mil/mês) → <strong>1.545 contatos a R$21,69</strong> → 48 pastas (<strong>3,1%</strong>) → 31 aprovadas (65%) → <strong>10 vendas</strong> (32%). <strong>CAC: R$3.351,23 = 1,1% do VGV</strong> (R$3,01 mi). O lead parece caro; a venda sai barata. São 154,5 contatos por venda.</p>
+<table>
+<thead><tr><th>Empreendimento</th><th>Contato</th><th>Pasta</th><th>Venda</th></tr></thead>
+<tbody>
+<tr><td>Bonsucesso</td><td class="n">R$14,52 (909)</td><td class="n">R$412,54 (32)</td><td class="n">R$3.300,36 (4)</td></tr>
+<tr><td>Patriarca</td><td class="n">R$36,98 (492)</td><td class="n">R$1.654,23 (11)</td><td class="n">R$3.032,76 (6)</td></tr>
+</tbody>
+</table>
+<p><strong>Contraste:</strong> meu CPL no financeiro é R$6–9. A Smart paga <strong>2,4–3,6× por contato</strong> — mas outro produto, outro ticket. O gargalo não é o clique: é <strong>contato → pasta (3,1%)</strong>. Patriarca custa 2,5× o contato de Bonsucesso e mesmo assim entregou 6 das 10 vendas.</p>
+<h3>Quanto custa crescer, no CPL real de R$21,69</h3>
+<p class="sub">Baseline 120–140 leads/semana ≈ 520–607 leads/mês.</p>
+<table>
+<thead><tr><th>Meta</th><th>Leads/mês</th><th>Verba no CPL atual</th></tr></thead>
+<tbody>
+<tr><td>Manter</td><td class="n">520–607</td><td class="n">R$11.279–13.166</td></tr>
+<tr><td>+50%</td><td class="n">780–910</td><td class="n">R$16.918–19.749</td></tr>
+<tr><td>Dobrar</td><td class="n">1.040–1.214</td><td class="n">R$22.558–26.332</td></tr>
+</tbody>
+</table>
+<p><strong>Efeito escala:</strong> dobrar a verba com CPL 20% pior ainda gera 166,7% dos leads da base. E há um segundo caminho sem gastar mais: levar pasta de 3,1% para 5% quase dobra as vendas com a mesma verba.</p>
+<p><strong>Teto:</strong> com CAC a 1,1% do VGV e ticket médio aprovado de R$224,8 mil, há gordura para escalar — desde que a taxa contato → pasta não caia junto.</p>
+<div class="note">Meta Verified entra aqui como camada de confiança: selo, proteção contra falsificação e suporte, segundo a <a href="https://www.facebook.com/business/help/2876154822522394">Central de Ajuda da Meta</a>. Não trate como compra de alcance; trate como redução de atrito e proteção de marca.</div>
+</section>
+
+<section id="pedido">
+<h2>7 · O pedido</h2>
+<div class="ask">
+<div><h3>1 · Elevar verba de mídia</h3><p>Meta operacional: sair de 11 ativos para pelo menos a mediana de 28, depois 60–120 com rotação semanal. Mais testes, mais bairros, mais formatos.</p></div>
+<div><h3>2 · Assinar Meta Verified</h3><p>Para selo, proteção contra perfis falsos e suporte. É custo fixo de credibilidade, não substituto de mídia.</p></div>
+<div><h3>3 · Operação de resposta</h3><p>WhatsApp com SLA, sprints semanais de criativos e regra de corte por custo por oportunidade qualificada.</p></div>
+</div>
+<div class="cols2" style="margin-top:14px">
+<div class="callout c1"><h3>Defesa</h3><p>Alcançar a mediana: 28+ criativos ativos e cobertura Patriarca/metrô.</p></div>
+<div class="callout c2"><h3>Disputa</h3><p>60–120 ativos, DCO por empreendimento e vídeo vertical semanal.</p></div>
+<div class="callout c3"><h3>Domínio local</h3><p>200+ ativos no núcleo e expansão para bairros adjacentes.</p></div>
+</div>
+</section>
+
+<section id="anexos">
+<h2>8 · Riscos, limites e anexos</h2>
+<ul>
+<li>Volume sem qualidade queima verba: medir custo por oportunidade qualificada, não só CPL.</li>
+<li>Mais alcance tende a diluir conversão; o critério é total de vendas e payback, não vaidade de CTR.</li>
+<li>Limites: contagens da Biblioteca variam por filtro/data; Cury e Plano&amp;Plano não apareceram como páginas oficiais; spend dos rivais não é público.</li>
+<li>Anexos: <a href="ANALISE.md">benchmark detalhado</a>, <a href="data/all_competitor_ads.csv">base com 2.320 anúncios</a>.</li>
+</ul>
+</section>
+
+<footer>Base pública: Meta Ad Library · Uso interno · Corte 16/09/2026</footer>
+</div>
+</body>
+</html>
