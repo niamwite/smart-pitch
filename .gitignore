@@ -15,3 +15,8 @@ concorrentes/COMPARATIVO.html
 
 # Arquivos do gerador (uso interno)
 # /tmp/opencode (fora do repo)
+
+# Fontes do site único (index.html é gerado por /tmp/opencode/merge_site.py)
+PITCH_WIL.html
+concorrentes/APRESENTACAO.html
+concorrentes/RELATORIO.html
